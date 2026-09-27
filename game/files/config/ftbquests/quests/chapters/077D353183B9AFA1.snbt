@@ -1,0 +1,38 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "077D353183B9AFA1"
+	group: ""
+	id: "077D353183B9AFA1"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "00988E575B98043E"
+		rewards: [
+			{
+				id: "21EEEA7484CFBD3E"
+				item: {
+					count: 1
+					id: "immersive_aircraft:bamboo_hopper"
+				}
+				type: "item"
+			}
+			{
+				count: 32
+				id: "57014089C6C2DD92"
+				item: {
+					count: 1
+					id: "minecraft:coal"
+				}
+				type: "item"
+			}
+		]
+		tasks: [{
+			dimension: "minecraft:overworld"
+			id: "28D8CF6F4F416F7F"
+			type: "dimension"
+		}]
+		x: -7.5d
+		y: -1.5d
+	}]
+}
