@@ -1,0 +1,417 @@
+﻿{
+    "schemaVersion":  1,
+    "channel":  "stable",
+    "generatedAtUtc":  "2026-09-28T05:42:35.8701990+00:00",
+    "sources":  {
+                    "googleDrive":  "https://drive.google.com/drive/folders/1hvW_IJGL3BT6KQw2L0iwyb1lQNrWPrlM?usp=sharing",
+                    "githubRepository":  "https://github.com/Ogn1k/minecraft-launcher-mods",
+                    "githubGameBaseUrl":  "https://raw.githubusercontent.com/Ogn1k/minecraft-launcher-mods/main/game/"
+                },
+    "game":  {
+                 "manifestPath":  "game/manifest.json",
+                 "manifestSha256":  "4c12a7dbf4a2948648ff62cd944cd07c7fa4424f3f61ec868e58a0a243a5c809",
+                 "packId":  "create-train-neo",
+                 "packVersion":  "8.3.2",
+                 "minecraftVersion":  "1.21.1",
+                 "modLoader":  {
+                                   "type":  "NeoForge",
+                                   "version":  "21.1.250"
+                               },
+                 "fileCount":  5147,
+                 "totalSize":  1241836875
+             },
+    "launcher":  {
+                     "version":  "1.0.0",
+                     "rootPath":  "launcher/",
+                     "entryPoint":  "MinecraftManager.App.exe",
+                     "fileCount":  77,
+                     "totalSize":  268833210,
+                     "files":  [
+                                   {
+                                       "path":  "Avalonia.Base.dll",
+                                       "sha256":  "39f7c973a20346b2a0c0e758b875749670a610d63863e9a85ffea22d5f320279",
+                                       "size":  2355200
+                                   },
+                                   {
+                                       "path":  "Avalonia.Controls.dll",
+                                       "sha256":  "909b7abd1e4b389b3372c4d1c0fcae1106f99ed783cc177fa0fa67ed1147ca24",
+                                       "size":  1347072
+                                   },
+                                   {
+                                       "path":  "Avalonia.DesignerSupport.dll",
+                                       "sha256":  "ee57e6001029f66ff212f4b81024e51f3167abc9461b055f7c829ec617931a2a",
+                                       "size":  214528
+                                   },
+                                   {
+                                       "path":  "Avalonia.Desktop.dll",
+                                       "sha256":  "2f3af65d2dace707ea07ad9723b4a4b849622ad9090533d44ac00ef4b0754241",
+                                       "size":  15360
+                                   },
+                                   {
+                                       "path":  "Avalonia.Dialogs.dll",
+                                       "sha256":  "70aaeffbb3afcfafee5a5b1e19707e13b7ae5f293c4c157332693690e12e3598",
+                                       "size":  242688
+                                   },
+                                   {
+                                       "path":  "Avalonia.dll",
+                                       "sha256":  "ac289895e7fa553ea6be420f9154c452bec6aebf64d0b344aa37827bd29d2fdb",
+                                       "size":  4096
+                                   },
+                                   {
+                                       "path":  "Avalonia.Fonts.Inter.dll",
+                                       "sha256":  "332d53aa406bcecec75f498fb8c0a91eb3ac1dcddd34a0a1fbeba0b5ddf87585",
+                                       "size":  1892864
+                                   },
+                                   {
+                                       "path":  "Avalonia.FreeDesktop.AtSpi.dll",
+                                       "sha256":  "217ee386cbccaece75184e2ac675dc0cfcd2fcf5a7f7bf4e689f401818c945cd",
+                                       "size":  562688
+                                   },
+                                   {
+                                       "path":  "Avalonia.FreeDesktop.dll",
+                                       "sha256":  "a0b0918cdeb2d1b34ba86a6f858d2a81180eca919e9b7c05e18f20a02a7ffd5c",
+                                       "size":  253952
+                                   },
+                                   {
+                                       "path":  "Avalonia.HarfBuzz.dll",
+                                       "sha256":  "77bbaad227444b7dbde768677b4dbfba28fec0365b9021d8f5803b23c1323eaa",
+                                       "size":  22016
+                                   },
+                                   {
+                                       "path":  "Avalonia.Markup.dll",
+                                       "sha256":  "ce634015611862dd6814355a4880c3c718782a017665445d232834615a6120cb",
+                                       "size":  45568
+                                   },
+                                   {
+                                       "path":  "Avalonia.Markup.Xaml.dll",
+                                       "sha256":  "1228b0a7359ebfa592408de8e20aa3b8a2775d27c36f19c1f7c8f1e9ff1e14a8",
+                                       "size":  74752
+                                   },
+                                   {
+                                       "path":  "Avalonia.Metal.dll",
+                                       "sha256":  "d9efd4c5293f90239f2930ae688c98b2ef55925fc3de85c4a6b8422175bd78b9",
+                                       "size":  15360
+                                   },
+                                   {
+                                       "path":  "Avalonia.MicroCom.dll",
+                                       "sha256":  "63457674ab61566ea94a7a089044bb2be7d0cda1530085578109df953ef37d49",
+                                       "size":  15360
+                                   },
+                                   {
+                                       "path":  "Avalonia.Native.dll",
+                                       "sha256":  "929bd4b42462a0cb9734ff49690dccf4b52a65e86892d23f2b1d60be56a1b913",
+                                       "size":  351232
+                                   },
+                                   {
+                                       "path":  "Avalonia.OpenGL.dll",
+                                       "sha256":  "365fc038f938088c913db7d067160f985a31f116961dbc527a38703c570119d3",
+                                       "size":  128512
+                                   },
+                                   {
+                                       "path":  "Avalonia.Remote.Protocol.dll",
+                                       "sha256":  "080f6f41f70cfd4f98863deeb61d15d229aa7d9333e7a3eb17582efb19ed779c",
+                                       "size":  75776
+                                   },
+                                   {
+                                       "path":  "Avalonia.Skia.dll",
+                                       "sha256":  "449a83a2d086a1cf255b69bc352136aa3a21b9f742bbb165ab9ba9178d28af78",
+                                       "size":  125440
+                                   },
+                                   {
+                                       "path":  "Avalonia.Themes.Fluent.dll",
+                                       "sha256":  "71ff087f03da9f484f53ef1aea502eb19b015c8a6a1e8a9161b0d344053ed8ef",
+                                       "size":  733184
+                                   },
+                                   {
+                                       "path":  "Avalonia.Vulkan.dll",
+                                       "sha256":  "ba98aeb0319a60c1de28b927c46fd94c75a6adc676dd160faae5bce14080e38d",
+                                       "size":  191488
+                                   },
+                                   {
+                                       "path":  "Avalonia.Win32.Automation.dll",
+                                       "sha256":  "beba00c11bcfff73dd3228d7219c8d80e6a78aca4cb278a71c1122b1974633ec",
+                                       "size":  123904
+                                   },
+                                   {
+                                       "path":  "Avalonia.Win32.dll",
+                                       "sha256":  "511a118f48b8d029924f3720e62658df72ee7a99c5b810f37378514ad4ea0427",
+                                       "size":  943104
+                                   },
+                                   {
+                                       "path":  "Avalonia.X11.dll",
+                                       "sha256":  "cfce1f1ba8c47a0e303bd9e37da1908d665910b3818969264a3dd06d7014bfe2",
+                                       "size":  408064
+                                   },
+                                   {
+                                       "path":  "CommunityToolkit.Mvvm.dll",
+                                       "sha256":  "19b2144fed9600d58a742a5a4a5fd7b10d4d0d2c2e79f5d8019307cf5657044f",
+                                       "size":  146760
+                                   },
+                                   {
+                                       "path":  "HarfBuzzSharp.dll",
+                                       "sha256":  "55e72ac23263f8e12484f3435e02ec22fac9eff6e6d169bb0a8c246be6b99d29",
+                                       "size":  122400
+                                   },
+                                   {
+                                       "path":  "MicroCom.Runtime.dll",
+                                       "sha256":  "2538ec6f3c24e901a90e33c37788b9a4e4b6ae8158cab7328a00a00bb28eab9e",
+                                       "size":  15360
+                                   },
+                                   {
+                                       "path":  "Microsoft.AspNetCore.Connections.Abstractions.dll",
+                                       "sha256":  "1ed92ae6e4544bf74a85e10b2a24d53ce6810f413832cfae89dcf2355c21cb9a",
+                                       "size":  43344
+                                   },
+                                   {
+                                       "path":  "Microsoft.AspNetCore.Http.Connections.Client.dll",
+                                       "sha256":  "7be6904b1db6c0b40f0a9db39132fa705380b96207656f5a9da4d52568077397",
+                                       "size":  116520
+                                   },
+                                   {
+                                       "path":  "Microsoft.AspNetCore.Http.Connections.Common.dll",
+                                       "sha256":  "3ca31948a0bcf291be58ec47f52b85e5423b1fe3b267c68f93f17b4f78969ba9",
+                                       "size":  29008
+                                   },
+                                   {
+                                       "path":  "Microsoft.AspNetCore.SignalR.Client.Core.dll",
+                                       "sha256":  "99a72f70d22c8728a75da8215a2eb09d45b5494a9fb52d3c05349e79aa4429b5",
+                                       "size":  210728
+                                   },
+                                   {
+                                       "path":  "Microsoft.AspNetCore.SignalR.Client.dll",
+                                       "sha256":  "9df40f13922d167b6c69a7fa7843d027105d82de9b8223a2624595604e16aadf",
+                                       "size":  20776
+                                   },
+                                   {
+                                       "path":  "Microsoft.AspNetCore.SignalR.Common.dll",
+                                       "sha256":  "95342b21156af78753eda730046d630c7bb9680b19505cc036f870a6adb078c2",
+                                       "size":  42792
+                                   },
+                                   {
+                                       "path":  "Microsoft.AspNetCore.SignalR.Protocols.Json.dll",
+                                       "sha256":  "7e9e8306fe1e70e7310a2710428efb7179a6704a736cd603deb5a32d855a7e35",
+                                       "size":  38184
+                                   },
+                                   {
+                                       "path":  "Microsoft.Extensions.Configuration.Abstractions.dll",
+                                       "sha256":  "cfdb91156d4d875ba6f540e53f96988e266ab24ab6f367150db6eb9b645cfeb3",
+                                       "size":  28456
+                                   },
+                                   {
+                                       "path":  "Microsoft.Extensions.Configuration.Binder.dll",
+                                       "sha256":  "6e30012a3f649ba2e4a4101ce77b777b0e89be05302fe7c11118cf680e561922",
+                                       "size":  43304
+                                   },
+                                   {
+                                       "path":  "Microsoft.Extensions.Configuration.dll",
+                                       "sha256":  "7811862ac6c2456e1efd7ff300e6567ff373fbccf4266a853dac376b5b8c19c3",
+                                       "size":  44880
+                                   },
+                                   {
+                                       "path":  "Microsoft.Extensions.Configuration.FileExtensions.dll",
+                                       "sha256":  "3d7015f88ca1c903e288eb73cea65baef251cb41ed99e4cbb607b18816d32aac",
+                                       "size":  28456
+                                   },
+                                   {
+                                       "path":  "Microsoft.Extensions.Configuration.Json.dll",
+                                       "sha256":  "2b72db01838c8ba1f221ac767d28f2f67a0c63be581910bcfef2b0832bed115f",
+                                       "size":  27944
+                                   },
+                                   {
+                                       "path":  "Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+                                       "sha256":  "43497d8f23b82159295933effe92c82447469b60cdbefcca4a62232e4ebbca99",
+                                       "size":  65832
+                                   },
+                                   {
+                                       "path":  "Microsoft.Extensions.DependencyInjection.dll",
+                                       "sha256":  "21a7fd5e0dba0f36c5d7643e572a11aaed01ac901532bd7b96a919eb02749389",
+                                       "size":  95528
+                                   },
+                                   {
+                                       "path":  "Microsoft.Extensions.Diagnostics.Abstractions.dll",
+                                       "sha256":  "629fcc3e78969fba52d7bf7ab21eaea2a7711fa4e0b4b91bd37ad8b35816d60c",
+                                       "size":  31056
+                                   },
+                                   {
+                                       "path":  "Microsoft.Extensions.Diagnostics.dll",
+                                       "sha256":  "e66c773c8976cf0c056b360ecf87637f28639810189bdf4d6bb579db6a3e3466",
+                                       "size":  36136
+                                   },
+                                   {
+                                       "path":  "Microsoft.Extensions.Features.dll",
+                                       "sha256":  "3b85f72e825c6cac05a928941a98c6f8fc052cb6984684d170279ff0e21d4d3d",
+                                       "size":  26448
+                                   },
+                                   {
+                                       "path":  "Microsoft.Extensions.FileProviders.Abstractions.dll",
+                                       "sha256":  "c823eea339af2beca2c3004bb077118d0db6379f908e7324e59461ef2c08e4b6",
+                                       "size":  23336
+                                   },
+                                   {
+                                       "path":  "Microsoft.Extensions.FileProviders.Physical.dll",
+                                       "sha256":  "ab90ea779dad07f90a64d69ac7037befe97f3f70d025596d339ec0814401e86c",
+                                       "size":  45392
+                                   },
+                                   {
+                                       "path":  "Microsoft.Extensions.FileSystemGlobbing.dll",
+                                       "sha256":  "c6cd6e791178b3f99f5ff4b46e51955edb92e6fa76ed6709e778e52612a0594e",
+                                       "size":  47952
+                                   },
+                                   {
+                                       "path":  "Microsoft.Extensions.Http.dll",
+                                       "sha256":  "40d0cc9fb8466ec65650f0a1e88172be16097cc4a49925005ef5452fc5ff9546",
+                                       "size":  92968
+                                   },
+                                   {
+                                       "path":  "Microsoft.Extensions.Logging.Abstractions.dll",
+                                       "sha256":  "cec836c1dff8e64701ee4fd3a710bd971fef953c90a34b577d9f4363103e6c39",
+                                       "size":  66856
+                                   },
+                                   {
+                                       "path":  "Microsoft.Extensions.Logging.Configuration.dll",
+                                       "sha256":  "b0e3dea3ef2f0169171a58d024ccebbad0c2a1d35d4278d5a21c6f8a537b59e7",
+                                       "size":  28456
+                                   },
+                                   {
+                                       "path":  "Microsoft.Extensions.Logging.Console.dll",
+                                       "sha256":  "97f7643ed779c0deb030ebef8e95388a9cbfb194e271391075dae297674d5897",
+                                       "size":  76072
+                                   },
+                                   {
+                                       "path":  "Microsoft.Extensions.Logging.dll",
+                                       "sha256":  "26d66b29b64a36bc7416e999b0fb55bc4b2d9d1358b6bef830c6a0ecdc81f86e",
+                                       "size":  51536
+                                   },
+                                   {
+                                       "path":  "Microsoft.Extensions.Options.ConfigurationExtensions.dll",
+                                       "sha256":  "4f6119f2f95f656412c4f31fdf80b739314060beeb374ea3aa92feb3164582f7",
+                                       "size":  21800
+                                   },
+                                   {
+                                       "path":  "Microsoft.Extensions.Options.dll",
+                                       "sha256":  "c734c6a9feca3a2df39597e028efea8eea796e7e5dfc815df8b5893384297728",
+                                       "size":  65320
+                                   },
+                                   {
+                                       "path":  "Microsoft.Extensions.Primitives.dll",
+                                       "sha256":  "1f9f027817b0f277f45cceb0927c14e41cabfe6d52dafb5ab6bf68895294814b",
+                                       "size":  44880
+                                   },
+                                   {
+                                       "path":  "MinecraftManager.App.deps.json",
+                                       "sha256":  "3c187d2c0c9ae8e6a465ab20f287e3814746be5540b41ca35a80a9de8f51a8f0",
+                                       "size":  51037
+                                   },
+                                   {
+                                       "path":  "MinecraftManager.App.dll",
+                                       "sha256":  "371ceeab6bee3a3f3567b12f2e721d9d05068fea034b3e5df1d7fb5d837db5ee",
+                                       "size":  5133312
+                                   },
+                                   {
+                                       "path":  "MinecraftManager.App.exe",
+                                       "sha256":  "cb477de73ff9281f2a2e5acfcd644aba37e691db1d2fc673a003aff64a184817",
+                                       "size":  162304
+                                   },
+                                   {
+                                       "path":  "MinecraftManager.App.pdb",
+                                       "sha256":  "60eddf964f1687dd6cfa0f77faa815af4c70608c4f6856c8b96d7dffd7b58e31",
+                                       "size":  76104
+                                   },
+                                   {
+                                       "path":  "MinecraftManager.App.runtimeconfig.json",
+                                       "sha256":  "7b0b415355489e6e5287f5f55643dc8b23c1b8730de6ed62e1886a0c3714e21b",
+                                       "size":  409
+                                   },
+                                   {
+                                       "path":  "MinecraftManager.Core.dll",
+                                       "sha256":  "0ad6c534c19242f08fd07b23c107b000af501b587871c219995341d160b38df7",
+                                       "size":  222720
+                                   },
+                                   {
+                                       "path":  "MinecraftManager.Core.pdb",
+                                       "sha256":  "60c0b023ad4446fe58a70a08b619dfcbceb0b5b525dc738481966758f1a89287",
+                                       "size":  49856
+                                   },
+                                   {
+                                       "path":  "MinecraftManager.Infrastructure.dll",
+                                       "sha256":  "9a3d01d239ced70df06bc19e71f1086193a3fc84e507e99180d69d17a1acd1dc",
+                                       "size":  238592
+                                   },
+                                   {
+                                       "path":  "MinecraftManager.Infrastructure.pdb",
+                                       "sha256":  "c883e2b93b701e529db41c1f51fd7774d8b163378fd3bca15f4411a067d12268",
+                                       "size":  59076
+                                   },
+                                   {
+                                       "path":  "runtime/win-x64/native/av_libglesv2.dll",
+                                       "sha256":  "53191a77fe783cd757ca7767077c2a64a662e7043777a5b4ab74980d4a0b73e3",
+                                       "size":  5394096
+                                   },
+                                   {
+                                       "path":  "runtime/win-x64/native/libHarfBuzzSharp.dll",
+                                       "sha256":  "145ade963eba427027d5e1381db5d51a0ef9e98e9fef9efbfa6074ca20da246f",
+                                       "size":  1816088
+                                   },
+                                   {
+                                       "path":  "runtime/win-x64/native/libHarfBuzzSharp.pdb",
+                                       "sha256":  "4300d75d5af09fbb79d565d9a18573243a93214c811d4f24a33f11f0d4242d93",
+                                       "size":  20918272
+                                   },
+                                   {
+                                       "path":  "runtime/win-x64/native/libSkiaSharp.dll",
+                                       "sha256":  "7dec3ba900ab353491e6446f0083739924c6f8dd668832e2f09d38ebffdbbe1c",
+                                       "size":  11628896
+                                   },
+                                   {
+                                       "path":  "runtime/win-x64/native/libSkiaSharp.pdb",
+                                       "sha256":  "9fa70aeff3122bcceae15cd89d9d2f3c88c8d382122ef70ad694a76d119dcc6e",
+                                       "size":  84033536
+                                   },
+                                   {
+                                       "path":  "runtime/win-x86/native/av_libglesv2.dll",
+                                       "sha256":  "1e4df6ab43cc25cdaa5405048cb1088b5ca26660adfdddaeaf88c8954464244a",
+                                       "size":  4794032
+                                   },
+                                   {
+                                       "path":  "runtime/win-x86/native/libHarfBuzzSharp.dll",
+                                       "sha256":  "99a97ab4b2b4b60f37930584d79849bd3ef2d1252c51ac47df9805deb08912af",
+                                       "size":  1518624
+                                   },
+                                   {
+                                       "path":  "runtime/win-x86/native/libHarfBuzzSharp.pdb",
+                                       "sha256":  "d830a0134f7dbb1cc6002542fd874d87edb415de3e8e3e841d1306ec6f528a54",
+                                       "size":  20705280
+                                   },
+                                   {
+                                       "path":  "runtime/win-x86/native/libSkiaSharp.dll",
+                                       "sha256":  "2e49b47ff56a0f6ccf61932d33e01e9046c319da35bbb16f9ec9572a9dcf675f",
+                                       "size":  10124128
+                                   },
+                                   {
+                                       "path":  "runtime/win-x86/native/libSkiaSharp.pdb",
+                                       "sha256":  "0636110c85e35a4acabd8df236e4a9410c2ab65258a929b92864817ee790f2a8",
+                                       "size":  86761472
+                                   },
+                                   {
+                                       "path":  "SharpCompress.dll",
+                                       "sha256":  "f59f7159bc053f656f59ee15144f123de5d4b798c337083f3bfc6b0d30e846fd",
+                                       "size":  2461696
+                                   },
+                                   {
+                                       "path":  "SkiaSharp.dll",
+                                       "sha256":  "aaaaa18c68ba1f3a3408b00dff28b11d5705198e17ba9d3aa59222bfd35407c8",
+                                       "size":  489824
+                                   },
+                                   {
+                                       "path":  "System.Security.Cryptography.ProtectedData.dll",
+                                       "sha256":  "7ccc461b061d8e45acf41219809c8773028274037906180c77495571a305734b",
+                                       "size":  40208
+                                   },
+                                   {
+                                       "path":  "Tmds.DBus.Protocol.dll",
+                                       "sha256":  "60a1c5255731d8ac843cab53108be8ba1ed02759ce3db0da5b49939ebe97bd8a",
+                                       "size":  232960
+                                   }
+                               ]
+                 }
+}
