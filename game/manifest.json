@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "packId": "create-train-neo",
-  "packVersion": "8.3.2",
+  "packVersion": "8.3.3",
   "minimumClientVersion": "1.0.0",
   "minecraftVersion": "1.21.1",
   "modLoader": {
@@ -3499,13 +3499,13 @@
       "updatePolicy": "installIfMissing"
     },
     {
-      "path": "config/inventoryprofilesnext/\u65B0\u7684\u4E16\u754C/prev-villager-trading-config-v2.json",
+      "path": "config/inventoryprofilesnext/新的世界/prev-villager-trading-config-v2.json",
       "sha256": "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef",
       "size": 1177,
       "updatePolicy": "installIfMissing"
     },
     {
-      "path": "config/inventoryprofilesnext/\u65B0\u7684\u4E16\u754C/villager-trading-config-v2.json",
+      "path": "config/inventoryprofilesnext/新的世界/villager-trading-config-v2.json",
       "sha256": "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef",
       "size": 1177,
       "updatePolicy": "installIfMissing"
@@ -3637,13 +3637,13 @@
       "updatePolicy": "installIfMissing"
     },
     {
-      "path": "config/jei/world/local/\u65B0\u7684\u4E16\u754C (2)/lookupHistory.json",
+      "path": "config/jei/world/local/新的世界 (2)/lookupHistory.json",
       "sha256": "73f7c584475262534dea0a60645d13bb48e084433283d6c1b98e57cd46503665",
       "size": 110,
       "updatePolicy": "installIfMissing"
     },
     {
-      "path": "config/jei/world/local/\u65B0\u7684\u4E16\u754C (3)/lookupHistory.json",
+      "path": "config/jei/world/local/新的世界 (3)/lookupHistory.json",
       "sha256": "dd593ec94299f3414291ed1e6d37eea0eb189ede35af7a1a1505dc11e81ef7b1",
       "size": 3123,
       "updatePolicy": "installIfMissing"
@@ -6439,25 +6439,25 @@
       "updatePolicy": "replace"
     },
     {
-      "path": "config/yes_steve_model/builtin/wine_fox/09_hailuo/avatar/\u661F\u5C51\u6D77\u87BA.avif",
+      "path": "config/yes_steve_model/builtin/wine_fox/09_hailuo/avatar/星屑海螺.avif",
       "sha256": "1d9f457907e33a8aedf1186a98506ec02e09afaffe2cd72dcfd046880e173742",
       "size": 5390,
       "updatePolicy": "replace"
     },
     {
-      "path": "config/yes_steve_model/builtin/wine_fox/09_hailuo/avatar/\u767D\u5E06\u5C0F\u55B5.avif",
+      "path": "config/yes_steve_model/builtin/wine_fox/09_hailuo/avatar/白帆小喵.avif",
       "sha256": "99f81f37640e1f89bae26d7124213622201f793b361de2fae1e2853c4c57463d",
       "size": 5291,
       "updatePolicy": "replace"
     },
     {
-      "path": "config/yes_steve_model/builtin/wine_fox/09_hailuo/avatar/\u7EB8\u677F.avif",
+      "path": "config/yes_steve_model/builtin/wine_fox/09_hailuo/avatar/纸板.avif",
       "sha256": "91e16853e16bdfae6d5db2c381f2f92da2651ddb0875b79582a862eba3229b55",
       "size": 4718,
       "updatePolicy": "replace"
     },
     {
-      "path": "config/yes_steve_model/builtin/wine_fox/09_hailuo/avatar/\u96D2\u4EC1.avif",
+      "path": "config/yes_steve_model/builtin/wine_fox/09_hailuo/avatar/雒仁.avif",
       "sha256": "087dcd5da9ef2479eedd52979959acf5061fa7f04bdfed854201deb7f3dd8cfa",
       "size": 2961,
       "updatePolicy": "replace"
@@ -6529,7 +6529,7 @@
       "updatePolicy": "replace"
     },
     {
-      "path": "config/yes_steve_model/builtin/wine_fox/10_zhiban/avatar/\u72F1\u9645\u661F\u8292.avif",
+      "path": "config/yes_steve_model/builtin/wine_fox/10_zhiban/avatar/狱际星芒.avif",
       "sha256": "e7458e13d325d4b7aa428ba787e988fec26ce72804e0fd8e757d4543c8633455",
       "size": 3628,
       "updatePolicy": "replace"
@@ -6967,49 +6967,49 @@
       "updatePolicy": "replace"
     },
     {
-      "path": "config/yes_steve_model/builtin/wine_fox/15_kluonoa/animations/TAC\u52A8\u753B.json",
+      "path": "config/yes_steve_model/builtin/wine_fox/15_kluonoa/animations/TAC动画.json",
       "sha256": "c28a0fcb86feb91f87f9b80ac3d79fb8a3110d5e26456263ce3752a5a3b75f90",
       "size": 321954,
       "updatePolicy": "replace"
     },
     {
-      "path": "config/yes_steve_model/builtin/wine_fox/15_kluonoa/animations/\u4E3B\u52A8\u753B.json",
+      "path": "config/yes_steve_model/builtin/wine_fox/15_kluonoa/animations/主动画.json",
       "sha256": "af4b1fa6be1008d060b969b4d5372f4268096a3c19480b5c627d577ebaa73288",
       "size": 385414,
       "updatePolicy": "replace"
     },
     {
-      "path": "config/yes_steve_model/builtin/wine_fox/15_kluonoa/animations/\u5973\u4EC6\u52A8\u753B.json",
+      "path": "config/yes_steve_model/builtin/wine_fox/15_kluonoa/animations/女仆动画.json",
       "sha256": "8859f79700a143627a6aa58ec2f27958f08167f03ab4124706db8ee6d8383cdf",
       "size": 67078,
       "updatePolicy": "replace"
     },
     {
-      "path": "config/yes_steve_model/builtin/wine_fox/15_kluonoa/animations/\u624B\u81C2\u52A8\u753B.json",
+      "path": "config/yes_steve_model/builtin/wine_fox/15_kluonoa/animations/手臂动画.json",
       "sha256": "9305eadbb87fa59436b4f435bfc16535f2c6f7c1aff9312a19c564550489049f",
       "size": 158423,
       "updatePolicy": "replace"
     },
     {
-      "path": "config/yes_steve_model/builtin/wine_fox/15_kluonoa/animations/\u642C\u8FD0\u52A8\u753B.json",
+      "path": "config/yes_steve_model/builtin/wine_fox/15_kluonoa/animations/搬运动画.json",
       "sha256": "dc45059b4b65ef05da967c54c2f2d084fc3e532c1adb4e4633fc82c60ae04818",
       "size": 5379,
       "updatePolicy": "replace"
     },
     {
-      "path": "config/yes_steve_model/builtin/wine_fox/15_kluonoa/animations/\u8DD1\u9177\u52A8\u753B.json",
+      "path": "config/yes_steve_model/builtin/wine_fox/15_kluonoa/animations/跑酷动画.json",
       "sha256": "e18daf135fbff6ba53630bbf7c3fe9251574fe5b693e7946f09682ef9a6e5134",
       "size": 178001,
       "updatePolicy": "replace"
     },
     {
-      "path": "config/yes_steve_model/builtin/wine_fox/15_kluonoa/animations/\u8F6E\u76D8\u52A8\u753B.json",
+      "path": "config/yes_steve_model/builtin/wine_fox/15_kluonoa/animations/轮盘动画.json",
       "sha256": "0f1fd23ffb3365d886239eb49000eea182675fbd80a775c834405d6d81640486",
       "size": 243233,
       "updatePolicy": "replace"
     },
     {
-      "path": "config/yes_steve_model/builtin/wine_fox/15_kluonoa/animations/\u9A6C\u672F\u52A8\u753B.json",
+      "path": "config/yes_steve_model/builtin/wine_fox/15_kluonoa/animations/马术动画.json",
       "sha256": "b0018f5a7e88c21f78b75ff18c98966428ac691c46f716950d2a8f2a0815abb3",
       "size": 42814,
       "updatePolicy": "replace"
@@ -7027,7 +7027,7 @@
       "updatePolicy": "replace"
     },
     {
-      "path": "config/yes_steve_model/builtin/wine_fox/15_kluonoa/avatar/Maks\u601C\u60AF.avif",
+      "path": "config/yes_steve_model/builtin/wine_fox/15_kluonoa/avatar/Maks怜悯.avif",
       "sha256": "4909706e5432337f71cc93e410716d6280dba4f51f954ba9058162515d63adc7",
       "size": 3885,
       "updatePolicy": "replace"
@@ -7063,43 +7063,43 @@
       "updatePolicy": "replace"
     },
     {
-      "path": "config/yes_steve_model/builtin/wine_fox/15_kluonoa/avatar/\u5496\u5561\u9C7C.avif",
+      "path": "config/yes_steve_model/builtin/wine_fox/15_kluonoa/avatar/咖啡鱼.avif",
       "sha256": "e9b34a0e5eaea1f48aba2cc3d20be3fc80b19df0d1333ce6cf80e24c139bd818",
       "size": 3220,
       "updatePolicy": "replace"
     },
     {
-      "path": "config/yes_steve_model/builtin/wine_fox/15_kluonoa/avatar/\u661F\u5C51\u6D77\u87BA.avif",
+      "path": "config/yes_steve_model/builtin/wine_fox/15_kluonoa/avatar/星屑海螺.avif",
       "sha256": "c8a05d54046f102db8f97ade841a971e23845a18a825bf41589259bc3d497a17",
       "size": 4524,
       "updatePolicy": "replace"
     },
     {
-      "path": "config/yes_steve_model/builtin/wine_fox/15_kluonoa/avatar/\u79CB\u98CE.avif",
+      "path": "config/yes_steve_model/builtin/wine_fox/15_kluonoa/avatar/秋风.avif",
       "sha256": "36a4be0008d7d90e8079e09c8d9d24448e105fc929b94b7bdfe2b96193c91d5a",
       "size": 6499,
       "updatePolicy": "replace"
     },
     {
-      "path": "config/yes_steve_model/builtin/wine_fox/15_kluonoa/avatar/\u81EA\u52A8\u670D\u52A1\u7F51\u7EDC.avif",
+      "path": "config/yes_steve_model/builtin/wine_fox/15_kluonoa/avatar/自动服务网络.avif",
       "sha256": "def6a918cab63c71aad1753a39bfbc45219696f74a0e6b95b9c71c67cbc0c19d",
       "size": 4656,
       "updatePolicy": "replace"
     },
     {
-      "path": "config/yes_steve_model/builtin/wine_fox/15_kluonoa/controller/\u4E3B\u52A8\u753B\u4FEE\u6539.json",
+      "path": "config/yes_steve_model/builtin/wine_fox/15_kluonoa/controller/主动画修改.json",
       "sha256": "172bbae987b9f13bd3ff73e871cb94557c597c85ffd93e7c3a0c40679c8c857e",
       "size": 2530,
       "updatePolicy": "replace"
     },
     {
-      "path": "config/yes_steve_model/builtin/wine_fox/15_kluonoa/controller/\u5E76\u884C\u52A8\u753B\u4FEE\u6539.json",
+      "path": "config/yes_steve_model/builtin/wine_fox/15_kluonoa/controller/并行动画修改.json",
       "sha256": "ac49b424e38e6d1fe6a03cb448eec28359c47d947f1843f88b446193de121e2c",
       "size": 1536,
       "updatePolicy": "replace"
     },
     {
-      "path": "config/yes_steve_model/builtin/wine_fox/15_kluonoa/controller/\u8F66\u8F86\u52A8\u753B\u76F8\u5173.json",
+      "path": "config/yes_steve_model/builtin/wine_fox/15_kluonoa/controller/车辆动画相关.json",
       "sha256": "6c8ca7826196df84cd0c4f7aa18140e0bde87fcdac9994b27b36158c20a80077",
       "size": 3494,
       "updatePolicy": "replace"
@@ -7177,7 +7177,7 @@
       "updatePolicy": "replace"
     },
     {
-      "path": "config/yes_steve_model/builtin/wine_fox/15_kluonoa/sounds/\u841D\u8389\u6447.ogg",
+      "path": "config/yes_steve_model/builtin/wine_fox/15_kluonoa/sounds/萝莉摇.ogg",
       "sha256": "04b434156b56d9ca78a46638a1ede723a82998d3c0a60008ede387424be59880",
       "size": 158066,
       "updatePolicy": "replace"
@@ -7663,43 +7663,43 @@
       "updatePolicy": "replace"
     },
     {
-      "path": "config/yes_steve_model/builtin/wine_fox/18_wedding/functions/\u5370\u5EA6\u683C\u6321\uFF08\u683C\u6321\u8FDE\u62DB\u63A7\u5236\u5668\uFF09@player_ctrl_use.molang",
+      "path": "config/yes_steve_model/builtin/wine_fox/18_wedding/functions/印度格挡（格挡连招控制器）@player_ctrl_use.molang",
       "sha256": "287e76d51e6901a4ce4c1cf8fa6fc2e3e07e9c1423dfcc5138ec0fffc9142f84",
       "size": 4991,
       "updatePolicy": "replace"
     },
     {
-      "path": "config/yes_steve_model/builtin/wine_fox/18_wedding/functions/\u66F4\u968F\u673A\u7684\u7728\u773C@player_ctrl_pre_parallel_3.molang",
+      "path": "config/yes_steve_model/builtin/wine_fox/18_wedding/functions/更随机的眨眼@player_ctrl_pre_parallel_3.molang",
       "sha256": "989a3db45e6daed822843eaeaeb12e6e8f40432ecf81c4938f5897a943a9a67f",
       "size": 1475,
       "updatePolicy": "replace"
     },
     {
-      "path": "config/yes_steve_model/builtin/wine_fox/18_wedding/functions/\u78B0\u5899\u62AC\u624B@player_ctrl_parallel_5.molang",
+      "path": "config/yes_steve_model/builtin/wine_fox/18_wedding/functions/碰墙抬手@player_ctrl_parallel_5.molang",
       "sha256": "60069e35da5fff1db55e015cf8176a33586d7f65ee59fd71837025e1734e0bbb",
       "size": 2080,
       "updatePolicy": "replace"
     },
     {
-      "path": "config/yes_steve_model/builtin/wine_fox/18_wedding/functions/\u78B0\u5899\u62AC\u624B\u521D\u59CB\u5316@player_init.molang",
+      "path": "config/yes_steve_model/builtin/wine_fox/18_wedding/functions/碰墙抬手初始化@player_init.molang",
       "sha256": "4573500d302338f37850a9a90f52c397c5ec56b10bfc355bfa757fe2a13165e1",
       "size": 85,
       "updatePolicy": "replace"
     },
     {
-      "path": "config/yes_steve_model/builtin/wine_fox/18_wedding/functions/\u7B80\u5355\u4E07\u7528BC\u52A8\u753B\u63A7\u5236\u5668@player_ctrl_swing.molang",
+      "path": "config/yes_steve_model/builtin/wine_fox/18_wedding/functions/简单万用BC动画控制器@player_ctrl_swing.molang",
       "sha256": "517d22218e9e7bedb1a4388a2e5ade95b106b617a7c15733adb8ffc8b3f12dd1",
       "size": 1540,
       "updatePolicy": "replace"
     },
     {
-      "path": "config/yes_steve_model/builtin/wine_fox/18_wedding/functions/\u7B80\u5355\u5012\u8D70\u52A8\u753B@player_ctrl_main.molang",
+      "path": "config/yes_steve_model/builtin/wine_fox/18_wedding/functions/简单倒走动画@player_ctrl_main.molang",
       "sha256": "3716ccaaaa7cf4d99549d57e80e2181a56fb4077e5276ee28e83afb0c25b9dde",
       "size": 1057,
       "updatePolicy": "replace"
     },
     {
-      "path": "config/yes_steve_model/builtin/wine_fox/18_wedding/functions/\u968F\u673A\u7728\u773C\u521D\u59CB\u5316@player_init.molang",
+      "path": "config/yes_steve_model/builtin/wine_fox/18_wedding/functions/随机眨眼初始化@player_init.molang",
       "sha256": "f4dcb64304efa986f9ca7936c9d12c4258af53d9c824afa5859036d00c2a74b1",
       "size": 37,
       "updatePolicy": "replace"
@@ -8371,13 +8371,13 @@
       "updatePolicy": "replace"
     },
     {
-      "path": "config/yes_steve_model/builtin/wine_fox/21_saint/textures/gui/\u524D\u666F.png",
+      "path": "config/yes_steve_model/builtin/wine_fox/21_saint/textures/gui/前景.png",
       "sha256": "289bf77a7a8ed825f3fb1239566b53ce4612c59120af600a08115652293e3778",
       "size": 755,
       "updatePolicy": "replace"
     },
     {
-      "path": "config/yes_steve_model/builtin/wine_fox/21_saint/textures/gui/\u80CC\u666F.png",
+      "path": "config/yes_steve_model/builtin/wine_fox/21_saint/textures/gui/背景.png",
       "sha256": "c7f5f9525cc3b335a0be3bc934656fdee83545927c9292ebc5b40fad75e45f8f",
       "size": 239306,
       "updatePolicy": "replace"
@@ -8881,7 +8881,7 @@
       "updatePolicy": "replace"
     },
     {
-      "path": "global_packs/required_resources/Distant Horizons\u6C49\u5316\u6750\u8D28\u53052.4.3-1.16.5-1.21.11.zip",
+      "path": "global_packs/required_resources/Distant Horizons汉化材质包2.4.3-1.16.5-1.21.11.zip",
       "sha256": "098857bd649740dad282e8717d1ed1991bcdf7276743a9728bef88945dc6482c",
       "size": 263137,
       "updatePolicy": "replace"
@@ -9007,7 +9007,7 @@
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/bettercombat-neoforge-2.4.0\u002B1.21.1.jar",
+      "path": "mods/bettercombat-neoforge-2.4.0+1.21.1.jar",
       "sha256": "0446e9faa98b764ba010ac31e337d14ac96bbb2fbfeff9b599e1efd510dfde5a",
       "size": 1045389,
       "updatePolicy": "replace"
@@ -9109,7 +9109,7 @@
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/cherishedworlds-neoforge-10.1.1\u002B1.21.1.jar",
+      "path": "mods/cherishedworlds-neoforge-10.1.1+1.21.1.jar",
       "sha256": "73a352263e4d21dc4eaa9d52b31f949b896c507aec373e4218b0942fff8f73a3",
       "size": 61728,
       "updatePolicy": "replace"
@@ -9127,19 +9127,19 @@
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/colorwheel_patcher-neoforge-1.0.5\u002Bmc1.21.1.jar",
+      "path": "mods/colorwheel_patcher-neoforge-1.0.5+mc1.21.1.jar",
       "sha256": "2285a5154739d2e9889d979e3bdf54104b56d7966dac8d43367305e5aaedcce8",
       "size": 210569,
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/colorwheel-neoforge-1.2.9\u002Bmc1.21.1.jar",
+      "path": "mods/colorwheel-neoforge-1.2.9+mc1.21.1.jar",
       "sha256": "9259e4adb5b091fe2bd60e57be7f0b2ec9872f1c97ff6d2ed3bb2a9a5ec6407f",
       "size": 398004,
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/combat_roll-neoforge-2.0.6\u002B1.21.1.jar",
+      "path": "mods/combat_roll-neoforge-2.0.6+1.21.1.jar",
       "sha256": "4904ae4c392d51c431c915822d817de608fd524632021ce417a17ce1a0185f17",
       "size": 193381,
       "updatePolicy": "replace"
@@ -9151,19 +9151,19 @@
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/connector-2.0.0-beta.15\u002B1.21.1-full.jar",
+      "path": "mods/connector-2.0.0-beta.15+1.21.1-full.jar",
       "sha256": "687fe56ad3d93228abd1d3aa1e898c796e4697e7be5e6be551fa420487063d40",
       "size": 4527066,
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/ConnectorExtras-1.12.1\u002B1.21.1.jar",
+      "path": "mods/ConnectorExtras-1.12.1+1.21.1.jar",
       "sha256": "ee89c3425b9a4bff766aaff02ccf8110c06f5da6ef5d71974556885cf25d4880",
       "size": 86284,
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/copycats-3.0.4\u002Bmc.1.21.1-neoforge.jar",
+      "path": "mods/copycats-3.0.4+mc.1.21.1-neoforge.jar",
       "sha256": "8480e2a62eaa625f75776831c1d8a9ef3d77d2d816fa2e67566c6ec25ba745d1",
       "size": 1791747,
       "updatePolicy": "replace"
@@ -9367,7 +9367,7 @@
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/createbigcannons-5.11.7\u002Bmc.1.21.1.jar",
+      "path": "mods/createbigcannons-5.11.7+mc.1.21.1.jar",
       "sha256": "ea017ab94637032d039899d88404838d173fa0e6286657cae6a6c3af459e87ca",
       "size": 3771506,
       "updatePolicy": "replace"
@@ -9451,7 +9451,7 @@
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/create-new-age-1.2.0\u002Bneoforge-mc1.21.1.jar",
+      "path": "mods/create-new-age-1.2.0+neoforge-mc1.21.1.jar",
       "sha256": "a217ea21ccc8364e99d86777e519436bc7c94516df9737ad0103047e48a44717",
       "size": 1644485,
       "updatePolicy": "replace"
@@ -9487,7 +9487,7 @@
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/create-track-map-2.1\u002Bmc1.21.1-neoforge.jar",
+      "path": "mods/create-track-map-2.1+mc1.21.1-neoforge.jar",
       "sha256": "e708b13d9c7b3e551a65b40ba96b7b1974fab001437be276a140f215b1369978",
       "size": 3274545,
       "updatePolicy": "replace"
@@ -9517,7 +9517,7 @@
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/cullleaves-neoforge-4.1.1\u002B1.21.1.jar",
+      "path": "mods/cullleaves-neoforge-4.1.1+1.21.1.jar",
       "sha256": "6e860e8aa56dbc8bfdad0d2d3591bbc2e491bbf38fae5e19892460d54bac0df3",
       "size": 94735,
       "updatePolicy": "replace"
@@ -9529,13 +9529,13 @@
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/curios-neoforge-9.0.15\u002B1.21.1.jar",
+      "path": "mods/curios-neoforge-9.0.15+1.21.1.jar",
       "sha256": "8c5bcb5783b94f7be2f6f2459b3da792c521b567583f842ed1a905e1a6824bd0",
       "size": 370972,
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/curios-neoforge-9.5.1\u002B1.21.1.jar",
+      "path": "mods/curios-neoforge-9.5.1+1.21.1.jar",
       "sha256": "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde",
       "size": 410690,
       "updatePolicy": "replace"
@@ -9571,7 +9571,7 @@
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/do_a_barrel_roll-neoforge-3.7.3\u002B1.21.jar",
+      "path": "mods/do_a_barrel_roll-neoforge-3.7.3+1.21.jar",
       "sha256": "e56395ebb26318c11f3a9474bba14518f17f4f2028683eb0aa9cdc7dacf124e2",
       "size": 465787,
       "updatePolicy": "replace"
@@ -9613,13 +9613,13 @@
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/Dynamic Trees for Nature\u0027s Spirit-1.21.1-neoforge-1.3.jar.disabled",
+      "path": "mods/Dynamic Trees for Nature's Spirit-1.21.1-neoforge-1.3.jar.disabled",
       "sha256": "565b8cd4bb82afa23ce823e49665188621bbdd53139ed854f4772ca18b01d7e8",
       "size": 394005,
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/dynamiccrosshair-9.11\u002B1.21.1-neoforge.jar",
+      "path": "mods/dynamiccrosshair-9.11+1.21.1-neoforge.jar",
       "sha256": "2259d04512cccce9796e6975483e3ddf48f69678dbf42b7e9cff38da3095f4f0",
       "size": 514029,
       "updatePolicy": "replace"
@@ -9655,7 +9655,7 @@
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/ends_delight-2.6.1\u002Bneoforge.1.21.1.jar",
+      "path": "mods/ends_delight-2.6.1+neoforge.1.21.1.jar",
       "sha256": "030593aa0957520b114c7ab36532cbf3c63c02d7d1bff86331b8bd9fc4145c4e",
       "size": 258124,
       "updatePolicy": "replace"
@@ -9703,7 +9703,7 @@
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/forgified-fabric-api-0.116.14\u002B2.3.0\u002B1.21.1.jar",
+      "path": "mods/forgified-fabric-api-0.116.14+2.3.0+1.21.1.jar",
       "sha256": "4a2487dac22314075b0c2f4baf61a08b332d38b706fb0bb3fadfb060a8ca05a3",
       "size": 5592546,
       "updatePolicy": "replace"
@@ -9775,25 +9775,25 @@
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/idas-1.13.7\u002B1.21.1-neoforge.jar",
+      "path": "mods/idas-1.13.7+1.21.1-neoforge.jar",
       "sha256": "7f5031dd90ae0b32d7fe5c6c47c877cac1eb95a178bc78d196cb24c17ce82522",
       "size": 14485475,
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/IMBlocker-5.5.4-neoforge\u002B1.20.6-1.21.8.jar",
+      "path": "mods/IMBlocker-5.5.4-neoforge+1.20.6-1.21.8.jar",
       "sha256": "08c5581bda0ab0fbfdbb10c51102685b403f64b0e712517c4b2d918b2c83cea3",
       "size": 196761,
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/immersive_aircraft-1.4.6\u002B1.21.1-neoforge.jar",
+      "path": "mods/immersive_aircraft-1.4.6+1.21.1-neoforge.jar",
       "sha256": "953222fefb9439b74760583d46dbf620ed85cc614f5ab629aec05ab6ce40ebe7",
       "size": 2447578,
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/immersive_melodies-neoforge-0.6.4\u002B1.21.1.jar",
+      "path": "mods/immersive_melodies-neoforge-0.6.4+1.21.1.jar",
       "sha256": "a6bfb284b3def1e34d62f8cfb0d63dff5683f2a98081b4d9a76580b806ae3972",
       "size": 5521192,
       "updatePolicy": "replace"
@@ -9805,7 +9805,7 @@
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/integrated_api-1.7.4\u002B1.21.1-neoforge.jar",
+      "path": "mods/integrated_api-1.7.4+1.21.1-neoforge.jar",
       "sha256": "9c6f772d0f50dc91474f887c25447d388555e3a3d9dd581ce6ebf6783b7cc03e",
       "size": 470845,
       "updatePolicy": "replace"
@@ -9817,13 +9817,13 @@
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/iris-neoforge-1.8.14-beta.1\u002Bmc1.21.1.jar",
+      "path": "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
       "sha256": "60d5f8bf52f25e9986440f4a4270a6bd986d9cff994510e1108ac1547063b314",
       "size": 2540723,
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/item_descriptions-2.8.0\u002B1.21.1-neoforge.jar",
+      "path": "mods/item_descriptions-2.8.0+1.21.1-neoforge.jar",
       "sha256": "29773325b0aaac251471b7d9fc15ed3b6712c68b429a5354c6097637e053bfab",
       "size": 579297,
       "updatePolicy": "replace"
@@ -9877,13 +9877,13 @@
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/L_Ender\u0027s Cataclysm 1.21.1-3.32.jar",
+      "path": "mods/L_Ender's Cataclysm 1.21.1-3.32.jar",
       "sha256": "679c8687281cdac01e80de1672f27db1baf6ad5c68c74d752806b9d5ce246ac3",
       "size": 73362730,
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/lambdynamiclights-4.8.10\u002B1.21.1.jar",
+      "path": "mods/lambdynamiclights-4.8.10+1.21.1.jar",
       "sha256": "94e955443ce3817f798c74cbbbb4973e7b55c8b6dec12808b9378e74376b2eb9",
       "size": 2022585,
       "updatePolicy": "replace"
@@ -9919,7 +9919,7 @@
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/lithium-neoforge-0.15.4\u002Bmc1.21.1.jar",
+      "path": "mods/lithium-neoforge-0.15.4+mc1.21.1.jar",
       "sha256": "488f33216030c1cb0baa33e59de3d657d08d5795a6c2080c8c8bbbc133fc8757",
       "size": 774220,
       "updatePolicy": "replace"
@@ -9937,7 +9937,7 @@
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/mafglib-0.4.3\u002Bmc1.21.1.jar",
+      "path": "mods/mafglib-0.4.3+mc1.21.1.jar",
       "sha256": "d40789ad40e5643ae232a07b4535135fe56585c12538bc30158076f956aab081",
       "size": 1314767,
       "updatePolicy": "replace"
@@ -9955,7 +9955,7 @@
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/mcqoy-0.4.1\u002Bneo-1.21.jar",
+      "path": "mods/mcqoy-0.4.1+neo-1.21.jar",
       "sha256": "5e5ae5d9eb18ec94dede5d5a9d00303708316be939f23cfe4722dfbf5bdb73ef",
       "size": 310685,
       "updatePolicy": "replace"
@@ -9985,7 +9985,7 @@
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/midnightlib-neoforge-1.9.3\u002B1.21.1.jar",
+      "path": "mods/midnightlib-neoforge-1.9.3+1.21.1.jar",
       "sha256": "76775d3a3f3a6a0304330cdd6a810944babc9bd7ebbdefa24ec3346a7c62a703",
       "size": 61217,
       "updatePolicy": "replace"
@@ -9997,7 +9997,7 @@
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/modernfix-neoforge-5.27.20\u002Bmc1.21.1.jar",
+      "path": "mods/modernfix-neoforge-5.27.20+mc1.21.1.jar",
       "sha256": "6f367ea4002c39e3cfe27e0a0be1008880a4b35a8482a78a437cfb9d8ee38273",
       "size": 599474,
       "updatePolicy": "replace"
@@ -10051,13 +10051,13 @@
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/netmusic-1.5.1-neoforge\u002Bmc1.21.1.jar",
+      "path": "mods/netmusic-1.5.1-neoforge+mc1.21.1.jar",
       "sha256": "54d5bd0a82af2d4e2b1cbe03d45fb2962d242ec6deca0e5b016d3092ce74dcdb",
       "size": 1472671,
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/noisium-neoforge-2.3.0\u002Bmc1.21-1.21.1.jar",
+      "path": "mods/noisium-neoforge-2.3.0+mc1.21-1.21.1.jar",
       "sha256": "e95209d593bc00d7c5de94f746ffd1dfbfa70ac8fbe938393ef930d00416109c",
       "size": 60296,
       "updatePolicy": "replace"
@@ -10069,7 +10069,7 @@
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/notenoughcrashes-neoforge-4.4.9\u002B1.21.1.jar",
+      "path": "mods/notenoughcrashes-neoforge-4.4.9+1.21.1.jar",
       "sha256": "5e26339287e4cd21e1be00d52088e3b5f0cab176eac967acd7404115c6ecd22f",
       "size": 598916,
       "updatePolicy": "replace"
@@ -10135,19 +10135,19 @@
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/pipeorgans-0.8.2\u002B1.21.1.jar",
+      "path": "mods/pipeorgans-0.8.2+1.21.1.jar",
       "sha256": "bf51565afb47d0c0d1fef3cced7c837eff18302740f472372845339f5f22d939",
       "size": 6593821,
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/player-animation-lib-forge-2.0.4\u002B1.21.1.jar",
+      "path": "mods/player-animation-lib-forge-2.0.4+1.21.1.jar",
       "sha256": "dbe5de45f5cd60c0e5e47af14e6d564534a98456e973cf670cb881f6938eee92",
       "size": 203149,
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/polymorph-neoforge-1.1.0\u002B1.21.1.jar",
+      "path": "mods/polymorph-neoforge-1.1.0+1.21.1.jar",
       "sha256": "bec8118978adeb052de9c4eaf9a595830621d82515a764f32f9c8a4dd52ab94b",
       "size": 174972,
       "updatePolicy": "replace"
@@ -10183,13 +10183,13 @@
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/railways-0.2.1\u002Bneoforge-mc1.21.1.jar",
+      "path": "mods/railways-0.2.1+neoforge-mc1.21.1.jar",
       "sha256": "b7636c8b1b0352ed1a130dfe67f8bb574e2fc08803ed1cda4d3ea00505193914",
       "size": 12118736,
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/reeses-sodium-options-neoforge-2.2.3\u002Bmc1.21.1.jar",
+      "path": "mods/reeses-sodium-options-neoforge-2.2.3+mc1.21.1.jar",
       "sha256": "25812f308a87c04686de6ac9f24a8073101f81864f0eb9abf348f95d73a6629e",
       "size": 260876,
       "updatePolicy": "replace"
@@ -10201,7 +10201,7 @@
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/repurposed_structures-7.5.21\u002B1.21.1-neoforge.jar",
+      "path": "mods/repurposed_structures-7.5.21+1.21.1-neoforge.jar",
       "sha256": "aeb473f0a0a0632cea089377cdd9f66c42cf6f97557fd32c368ac40635285dd2",
       "size": 8245469,
       "updatePolicy": "replace"
@@ -10261,19 +10261,19 @@
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/SmoothBoot-NeoForge\u002B1.21-1.0.0.jar",
+      "path": "mods/SmoothBoot-NeoForge+1.21-1.0.0.jar",
       "sha256": "b6bbfd82706bb8f1b91c85395850c95e73cfe2b3edd7a85a2119e87c5fedb208",
       "size": 33070,
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/sodium-extra-neoforge-0.9.3\u002Bmc1.21.1.jar",
+      "path": "mods/sodium-extra-neoforge-0.9.3+mc1.21.1.jar",
       "sha256": "fa553bce38bad6fdd478841a270a79a31dc05f87d7892b1cf839850602ac9186",
       "size": 465013,
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/sodium-neoforge-0.8.12\u002Bmc1.21.1.jar",
+      "path": "mods/sodium-neoforge-0.8.12+mc1.21.1.jar",
       "sha256": "2f9e69ec9521e657100ef83b3bdf3f18dba6078d57f9853722d7643a577b2266",
       "size": 1291418,
       "updatePolicy": "replace"
@@ -10327,7 +10327,7 @@
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/t_and_t-neoforge-fabric-1.13.9\u002B1.21.1.jar",
+      "path": "mods/t_and_t-neoforge-fabric-1.13.9+1.21.1.jar",
       "sha256": "04e3a5f6e9aa83b2f305e836ed6bceb656c7a6cae8d945415fd8d55bc2450696",
       "size": 3597353,
       "updatePolicy": "replace"
@@ -10375,7 +10375,7 @@
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/tongdarailway-1.1.3\u002Bmc21.1.jar",
+      "path": "mods/tongdarailway-1.1.3+mc21.1.jar",
       "sha256": "7b805da38d603d7cd6ac1d85fd957f1f762060304cf0e8d6be956bfb281e29ab",
       "size": 410469,
       "updatePolicy": "replace"
@@ -10387,7 +10387,7 @@
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/touhoulittlemaid-1.5.3-neoforge\u002Bmc1.21.1.jar",
+      "path": "mods/touhoulittlemaid-1.5.3-neoforge+mc1.21.1.jar",
       "sha256": "f6db04195820c8508704277ea76d63723804ff236a7b780369ba59ebe5cd9c27",
       "size": 24408776,
       "updatePolicy": "replace"
@@ -10423,7 +10423,7 @@
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/tweakerge-0.4.3\u002Bmc1.21.1.jar",
+      "path": "mods/tweakerge-0.4.3+mc1.21.1.jar",
       "sha256": "c19f6e2200dd21b32b90119098a0608692605c4ced91146e67ea61e0e9855277",
       "size": 674125,
       "updatePolicy": "replace"
@@ -10459,7 +10459,7 @@
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/whats-that-slot-neoforge-1.3.6\u002B1.21.jar",
+      "path": "mods/whats-that-slot-neoforge-1.3.6+1.21.jar",
       "sha256": "ee6d924f063ade63c1af564f7cf70562dd4d66eab50fd44a22b44146031d6ce9",
       "size": 72357,
       "updatePolicy": "replace"
@@ -10471,25 +10471,13 @@
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/xaerominimap-neoforge-1.21.1-26.4.2.jar",
-      "sha256": "b722bcf794288f0ed51165cd1f057fc4505e20abbc723b2e17e900426e443603",
-      "size": 2185409,
-      "updatePolicy": "replace"
-    },
-    {
-      "path": "mods/xaeroworldmap-neoforge-1.21.1-1.44.2.jar",
-      "sha256": "2c4089c2f9132b85749a18920d6e2098744f61fe98854fcff2e3768f2d7269fa",
-      "size": 1418918,
-      "updatePolicy": "replace"
-    },
-    {
-      "path": "mods/yet_another_config_lib_v3-3.8.2\u002B1.21.1-neoforge.jar",
+      "path": "mods/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
       "sha256": "b5c30321b46cfaa521645a04aff89d2804d8167a25bb23ad4b1ae8da73093a2f",
       "size": 1118651,
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/ysm-2.6.5-neoforge\u002Bmc1.21.1-release.jar",
+      "path": "mods/ysm-2.6.5-neoforge+mc1.21.1-release.jar",
       "sha256": "b285c73d4ec010d9a9be3c53c1bee890cf269645be5f1bcf1c27a2e8e82807cb",
       "size": 63463229,
       "updatePolicy": "replace"
@@ -10597,13 +10585,13 @@
       "updatePolicy": "replace"
     },
     {
-      "path": "schematics/45\u5EA6\u94C1\u8DEF1.nbt",
+      "path": "schematics/45度铁路1.nbt",
       "sha256": "57857529c73460d75eed6634aed31768e953ff70aad516b9c8ba901cab3c486a",
       "size": 280,
       "updatePolicy": "replace"
     },
     {
-      "path": "schematics/45\u5EA6\u94C1\u8DEF2.nbt",
+      "path": "schematics/45度铁路2.nbt",
       "sha256": "cc557d4c1ce7021050882347b717a20435a894aff49ce364867e8ed15d8398c6",
       "size": 688,
       "updatePolicy": "replace"
@@ -10627,277 +10615,277 @@
       "updatePolicy": "replace"
     },
     {
-      "path": "schematics/uploaded/HadesScience/\u5355\u8F68\u5BA2\u8F66.nbt",
+      "path": "schematics/uploaded/HadesScience/单轨客车.nbt",
       "sha256": "c1f752efe1b7cb8a6d35dff174dc2b1c6c31991e9690ae73437fc87726fc274c",
       "size": 1058,
       "updatePolicy": "replace"
     },
     {
-      "path": "schematics/uploaded/HadesScience/\u5B88\u8F661.nbt",
+      "path": "schematics/uploaded/HadesScience/守车1.nbt",
       "sha256": "82b2a84d97a2779977cde3ec9f834302034424ffa22dde06de991445f1d10ed0",
       "size": 2594,
       "updatePolicy": "replace"
     },
     {
-      "path": "schematics/uploaded/HadesScience/\u5BA2\u8FD0\u8F66\u53A21.nbt",
+      "path": "schematics/uploaded/HadesScience/客运车厢1.nbt",
       "sha256": "4d41cd30eb35cba3ae1ba84a675214876376f1303422b2422fb6ca2659f83dea",
       "size": 2186,
       "updatePolicy": "replace"
     },
     {
-      "path": "schematics/uploaded/HadesScience/\u62D3\u8DEF\u8005\u7EA7.nbt",
+      "path": "schematics/uploaded/HadesScience/拓路者级.nbt",
       "sha256": "44a51785dfb33752c790a504171bdfec56a76d4310979a59cd5ea778095393b2",
       "size": 2228,
       "updatePolicy": "replace"
     },
     {
-      "path": "schematics/uploaded/HadesScience/\u63A2\u661F\u8005\u7EA7.nbt",
+      "path": "schematics/uploaded/HadesScience/探星者级.nbt",
       "sha256": "2c5ec1793b8ee66fbc1a1c9ca883e402bb9e7935b69d6e6c45d8a89ea9184b1a",
       "size": 2980,
       "updatePolicy": "replace"
     },
     {
-      "path": "schematics/uploaded/HadesScience/\u666E\u8F68\u6316\u6398\u8F662.nbt",
+      "path": "schematics/uploaded/HadesScience/普轨挖掘车2.nbt",
       "sha256": "b8232942d28dadef4862de3e9332045631a66df3a444d7c482e0b3bf3a9756d9",
       "size": 1153,
       "updatePolicy": "replace"
     },
     {
-      "path": "schematics/uploaded/HadesScience/\u8D27\u8F66.nbt",
+      "path": "schematics/uploaded/HadesScience/货车.nbt",
       "sha256": "a37f8628368ba925ca8b171939cfc42f3db93f07065f2b0622deeea8b5628ea0",
       "size": 2548,
       "updatePolicy": "replace"
     },
     {
-      "path": "schematics/\u5168\u81EA\u52A8\u6316\u77FF\u673A(v2.0).nbt",
+      "path": "schematics/全自动挖矿机(v2.0).nbt",
       "sha256": "509eb776a6251d3fb48db2a86243722214935ce6ad743b7d4bb24b938d8d87d1",
       "size": 14792,
       "updatePolicy": "replace"
     },
     {
-      "path": "schematics/\u5237\u77F3\u673A.nbt",
+      "path": "schematics/刷石机.nbt",
       "sha256": "9b2f91df2e9c56d715d2305071ef75b4cc84e36903a941539a74aac6f7a09b5b",
       "size": 1822,
       "updatePolicy": "replace"
     },
     {
-      "path": "schematics/\u533A\u5757\u6316\u77FF\u673A.nbt",
+      "path": "schematics/区块挖矿机.nbt",
       "sha256": "9d6cc8c6eadcacc6da72a0e7a33a6c0ec27bd9008e1ed4385cea4ca6461ddad0",
       "size": 13802,
       "updatePolicy": "replace"
     },
     {
-      "path": "schematics/\u5355\u8F68\u5BA2\u8F66.nbt",
+      "path": "schematics/单轨客车.nbt",
       "sha256": "c1f752efe1b7cb8a6d35dff174dc2b1c6c31991e9690ae73437fc87726fc274c",
       "size": 1058,
       "updatePolicy": "replace"
     },
     {
-      "path": "schematics/\u5355\u8F68\u6316\u6398\u8F66.nbt",
+      "path": "schematics/单轨挖掘车.nbt",
       "sha256": "edafe66a1a3ff60ca4af674e4c20677fdcedd1cd4cd564f61193bf72b56d3fe9",
       "size": 1118,
       "updatePolicy": "replace"
     },
     {
-      "path": "schematics/\u5355\u8F68\u8D27\u8F66.nbt",
+      "path": "schematics/单轨货车.nbt",
       "sha256": "9d396ff3ff38641cc0df957423f79abc1244db86d819a692638beb1e0886815e",
       "size": 1513,
       "updatePolicy": "replace"
     },
     {
-      "path": "schematics/\u5355\u8F68\u8F66\u5934.nbt",
+      "path": "schematics/单轨车头.nbt",
       "sha256": "0ff107a2388ff9b26a13c87b298339640abe71375d30d6c68b2f52aae44968db",
       "size": 1505,
       "updatePolicy": "replace"
     },
     {
-      "path": "schematics/\u5927\u578B\u50A8\u6DB2\u7F50.nbt",
+      "path": "schematics/大型储液罐.nbt",
       "sha256": "eddc016d0cb859e1d414a1dac56691ec4d71eb4e2b34ba6befdf1460db6cae05",
       "size": 10823,
       "updatePolicy": "replace"
     },
     {
-      "path": "schematics/\u5927\u7BA1\u5ECA.nbt",
+      "path": "schematics/大管廊.nbt",
       "sha256": "a396cfdc049a1138031879c57770dabbe043eb46f33ef676b9e2187840a69b7a",
       "size": 9564,
       "updatePolicy": "replace"
     },
     {
-      "path": "schematics/\u5927\u7BA1\u5ECA\u9876\u90E8\u7248.nbt",
+      "path": "schematics/大管廊顶部版.nbt",
       "sha256": "db29562e835820dc19b7303ba68d60ef57f30cba5300eb839ca469d3a9b8cab6",
       "size": 599,
       "updatePolicy": "replace"
     },
     {
-      "path": "schematics/\u5B88\u8F661.nbt",
+      "path": "schematics/守车1.nbt",
       "sha256": "82b2a84d97a2779977cde3ec9f834302034424ffa22dde06de991445f1d10ed0",
       "size": 2594,
       "updatePolicy": "replace"
     },
     {
-      "path": "schematics/\u5BA2\u8FD0\u8F66\u53A21.nbt",
+      "path": "schematics/客运车厢1.nbt",
       "sha256": "789e39984c7631d5ddfc8c39092d40638bfb0a6d8855e9d35979a2cb1d15532f",
       "size": 8812,
       "updatePolicy": "replace"
     },
     {
-      "path": "schematics/\u5CA9\u6D46\u642C\u8FD0.nbt",
+      "path": "schematics/岩浆搬运.nbt",
       "sha256": "a221326923caa86effd402111afed06ef6ca61685e58f2de8046158163d81697",
       "size": 1410,
       "updatePolicy": "replace"
     },
     {
-      "path": "schematics/\u62BD\u6CB9\u673A1.nbt",
+      "path": "schematics/抽油机1.nbt",
       "sha256": "bb6cd07c91c03df0ffff4ae5ef07bd4848875cc99738b82e10cfdd112a0d93e0",
       "size": 1176,
       "updatePolicy": "replace"
     },
     {
-      "path": "schematics/\u62D3\u8DEF\u8005\u7EA7.nbt",
+      "path": "schematics/拓路者级.nbt",
       "sha256": "cefdc3750411a8d326b49f827dd7d5ce6faf63c95db293c1901f9383786d43ee",
       "size": 2262,
       "updatePolicy": "replace"
     },
     {
-      "path": "schematics/\u6316\u6398\u9020\u8DEF\u4E00\u4F53\u673A.nbt",
+      "path": "schematics/挖掘造路一体机.nbt",
       "sha256": "ca10e818be34257da658ed5a1b29d3e447b9ab4ecbdadd765d3f0706593ce61b",
       "size": 1648,
       "updatePolicy": "replace"
     },
     {
-      "path": "schematics/\u6316\u77FF\u673A\u63A7\u5236\u7535\u8DEF\u90E8\u5206.nbt",
+      "path": "schematics/挖矿机控制电路部分.nbt",
       "sha256": "1b0c96db36cc7d23b9887ba9917be3e014f61c49901e42f25b780633778952df",
       "size": 1257,
       "updatePolicy": "replace"
     },
     {
-      "path": "schematics/\u63A2\u661F\u8005\u7EA7.nbt",
+      "path": "schematics/探星者级.nbt",
       "sha256": "2c5ec1793b8ee66fbc1a1c9ca883e402bb9e7935b69d6e6c45d8a89ea9184b1a",
       "size": 2980,
       "updatePolicy": "replace"
     },
     {
-      "path": "schematics/\u65E0\u80F6\u9B54\u6539\u724846W\u7AD6\u5F0F\u7C92\u5B50\u65CB\u8F6C\u5237\u77F3\u673A.nbt",
+      "path": "schematics/无胶魔改版46W竖式粒子旋转刷石机.nbt",
       "sha256": "ef4fd6c9f3bdd0412129237439550447d9ce9dd4ecba23b490a7024de24909b7",
       "size": 5416,
       "updatePolicy": "replace"
     },
     {
-      "path": "schematics/\u666E\u8F68\u6316\u6398\u8F66.nbt",
+      "path": "schematics/普轨挖掘车.nbt",
       "sha256": "d45f22a4bdb09a922c48cc0ff2233f7a3f63c276c6e2284cb6beadd1721e35a0",
       "size": 1047,
       "updatePolicy": "replace"
     },
     {
-      "path": "schematics/\u666E\u8F68\u6316\u6398\u8F662.nbt",
+      "path": "schematics/普轨挖掘车2.nbt",
       "sha256": "b8232942d28dadef4862de3e9332045631a66df3a444d7c482e0b3bf3a9756d9",
       "size": 1153,
       "updatePolicy": "replace"
     },
     {
-      "path": "schematics/\u6728\u6876.nbt",
+      "path": "schematics/木桶.nbt",
       "sha256": "4fbcfebaea4cca793d3cc4b05fbe8ebe3edd288e7cbdc6e03cb52ac64ff8f654",
       "size": 247,
       "updatePolicy": "replace"
     },
     {
-      "path": "schematics/\u673A\u68B0\u52A8\u529B\u5168\u7269\u54C1.nbt",
+      "path": "schematics/机械动力全物品.nbt",
       "sha256": "20798309703e95681053b9ffc138e5d33f24cc2fa63aea7480b2ded54832f4c6",
       "size": 112172,
       "updatePolicy": "replace"
     },
     {
-      "path": "schematics/\u706B\u70AE1(v1.2).nbt",
+      "path": "schematics/火炮1(v1.2).nbt",
       "sha256": "0a06c94f39bfcbd1c09ce5641fa14784cd51859642443e32915bcdf81dd6bc12",
       "size": 3651,
       "updatePolicy": "replace"
     },
     {
-      "path": "schematics/\u7EEB\u4EBA\u7684\u5BB6.nbt",
+      "path": "schematics/绫人的家.nbt",
       "sha256": "cab2da0710a9ac8cef66492ced6fe423c91fc7dfa2410564b953d230c0d65128",
       "size": 85428,
       "updatePolicy": "replace"
     },
     {
-      "path": "schematics/\u7FA4\u7389\u9601.nbt",
+      "path": "schematics/群玉阁.nbt",
       "sha256": "14ae4fc1edf6558f4dcbe7ff7b05c94f2f26ce22f076272549afaa622a2203b7",
       "size": 264596,
       "updatePolicy": "replace"
     },
     {
-      "path": "schematics/\u8D27\u8F66.nbt",
+      "path": "schematics/货车.nbt",
       "sha256": "a37f8628368ba925ca8b171939cfc42f3db93f07065f2b0622deeea8b5628ea0",
       "size": 2548,
       "updatePolicy": "replace"
     },
     {
-      "path": "schematics/\u8D85\u7EA7\u5927\u8239.nbt",
+      "path": "schematics/超级大船.nbt",
       "sha256": "bd86ba8328c74d0bc3f42518dfd47468dc0e20a2284db2a7f35916f2fe1e0b40",
       "size": 1084575,
       "updatePolicy": "replace"
     },
     {
-      "path": "schematics/\u8F66\u7AD9.nbt",
+      "path": "schematics/车站.nbt",
       "sha256": "e1a57e328c3b290a2fbc1aa1c3a7ba94525da4f189c0a19000af02b019250986",
       "size": 7484,
       "updatePolicy": "replace"
     },
     {
-      "path": "schematics/\u8F66\u7AD9\u5782\u76F4\u901A\u9053.nbt",
+      "path": "schematics/车站垂直通道.nbt",
       "sha256": "2251f77d2b5c9b81492967e9b21069126f953d1f20e667715bab195938c73e2d",
       "size": 1616,
       "updatePolicy": "replace"
     },
     {
-      "path": "schematics/\u900F\u660E\u957F\u76F4\u9053.nbt",
+      "path": "schematics/透明长直道.nbt",
       "sha256": "1daed71f41bfe27ad9ecc9a60e21ced22f664314f9216af0d6b8b04dcdb189ed",
       "size": 257,
       "updatePolicy": "replace"
     },
     {
-      "path": "schematics/\u94BB\u5934.nbt",
+      "path": "schematics/钻头.nbt",
       "sha256": "6ae91ff61acebc1ad0b18edd80eac1f07790ad13f66daf6e55220b3826c7c3c3",
       "size": 1377,
       "updatePolicy": "replace"
     },
     {
-      "path": "schematics/\u94C1\u8DEF\u7528\u76FE\u6784\u673A\u3001\u96A7\u58C1\u673A\u3001\u67B6\u6865\u673A\u4E09\u4EF6\u5957.nbt",
+      "path": "schematics/铁路用盾构机、隧壁机、架桥机三件套.nbt",
       "sha256": "d9a7f1fde0ccbb4f69ab3030cd36374cc6c333136a6dbd9c7b7d33d50f207242",
       "size": 14202,
       "updatePolicy": "replace"
     },
     {
-      "path": "schematics/\u94FA\u8F68\u673A.nbt",
+      "path": "schematics/铺轨机.nbt",
       "sha256": "95f78de59e136503e5900582777be1a33128afdde0bd53569c3e98e2488a6a87",
       "size": 2380,
       "updatePolicy": "replace"
     },
     {
-      "path": "schematics/\u957F\u7BA1\u9053.nbt",
+      "path": "schematics/长管道.nbt",
       "sha256": "f36904ea7fe53d282cba4f14804ac852dbe3172adf294e663427567d6003672f",
       "size": 534,
       "updatePolicy": "replace"
     },
     {
-      "path": "schematics/\u98CE\u8F661.nbt",
+      "path": "schematics/风车1.nbt",
       "sha256": "4d60884acd91630bd9b76fa83c7a5d41f58e4fd77b10fe896f37b1a0fa87dbb1",
       "size": 732,
       "updatePolicy": "replace"
     },
     {
-      "path": "schematics/\u98CE\u8F662.nbt",
+      "path": "schematics/风车2.nbt",
       "sha256": "d1c2c5129339d205216abb05b304c82714c53a5f9b14ba7643422a1db064e9c8",
       "size": 1487,
       "updatePolicy": "replace"
     },
     {
-      "path": "schematics/\u98DE\u8247.nbt",
+      "path": "schematics/飞艇.nbt",
       "sha256": "407057a439310fc3ccb9a4b79f42fc72a7c30d7402d4a3a338199d3c7d2c9172",
       "size": 67120,
       "updatePolicy": "replace"
     },
     {
-      "path": "schematics/\u9E1F\u5C45.nbt",
+      "path": "schematics/鸟居.nbt",
       "sha256": "ba8b52552574e150923ec04a28f77d127787721415367e7a2e824c5e61f3dc59",
       "size": 1572,
       "updatePolicy": "replace"
@@ -10909,61 +10897,61 @@
       "updatePolicy": "replace"
     },
     {
-      "path": "tacz/[\u6DF1\u5CA9\u94F6\u6CB3]Deep Rock Galactic GunPack\u002B1.21.1.zip",
+      "path": "tacz/[深岩银河]Deep Rock Galactic GunPack+1.21.1.zip",
       "sha256": "f45d8916097dc82b706f8e1f3c0635d5fae59e4762405656f46cc4175fab1c45",
       "size": 13253084,
       "updatePolicy": "replace"
     },
     {
-      "path": "tacz/[\u9B3C\u6CE3\u4E94\u67AA\u68B0]dmcpack-1.0.1-for tacz 1.1.4\u002B1.21.1.zip",
+      "path": "tacz/[鬼泣五枪械]dmcpack-1.0.1-for tacz 1.1.4+1.21.1.zip",
       "sha256": "4d704e5488637e4c3eab48a02efca66077dac97536dfc4830f4c6c4f4855704b",
       "size": 3813098,
       "updatePolicy": "replace"
     },
     {
-      "path": "tacz/Applied Armorer-v1.1.4.1-for114\u002B\u002B1.21.1.zip",
+      "path": "tacz/Applied Armorer-v1.1.4.1-for114++1.21.1.zip",
       "sha256": "26c8c69f485ee50c7fee4a137d8baafcb3530db398ca68e87ef05b06909f118e",
       "size": 8730302,
       "updatePolicy": "replace"
     },
     {
-      "path": "tacz/bluearchive1.1.4\u002B1.21.1.zip",
+      "path": "tacz/bluearchive1.1.4+1.21.1.zip",
       "sha256": "ba8c8ebaa7760d878964a01b8d6ebb413a7e7be9dcc6fad3550853ddde964e0d",
       "size": 15191409,
       "updatePolicy": "replace"
     },
     {
-      "path": "tacz/Create Armorer-v1.1.4-for114\u002B\u002B1.21.1.zip",
+      "path": "tacz/Create Armorer-v1.1.4-for114++1.21.1.zip",
       "sha256": "3adf343f6b64ff9eacbd2bbccfb9ff5f329be2e44eb50b56d121ad454b7ac895",
       "size": 4041675,
       "updatePolicy": "replace"
     },
     {
-      "path": "tacz/Cyber Armorer-1.1.4.2.1_for114\u002B1.21.1.zip",
+      "path": "tacz/Cyber Armorer-1.1.4.2.1_for114+1.21.1.zip",
       "sha256": "a8b4053d9b578176a45a33af1470db586efbdac1ae3de1e5361903fa768e5032",
       "size": 9377478,
       "updatePolicy": "replace"
     },
     {
-      "path": "tacz/gucci_vuitton_attachment\u002B1.21.1.zip",
+      "path": "tacz/gucci_vuitton_attachment+1.21.1.zip",
       "sha256": "a4eb9e7530643e2f04af96b601c509f119e79087d73b5eb8c0c2e67d593a5ae0",
       "size": 1534441,
       "updatePolicy": "replace"
     },
     {
-      "path": "tacz/HLMPack1.3-hotfix\u002B1.21.1.zip",
+      "path": "tacz/HLMPack1.3-hotfix+1.21.1.zip",
       "sha256": "d32a1115a9d4b5d6f5756743af61d7298636c540e89742298253846dce5b19ea",
       "size": 35104231,
       "updatePolicy": "replace"
     },
     {
-      "path": "tacz/Immersive Armorer-v1.1.4-for114\u002B\u002B1.21.1.zip",
+      "path": "tacz/Immersive Armorer-v1.1.4-for114++1.21.1.zip",
       "sha256": "52201630852343099f036c8d575971d903ef459fc10e567628079dd913c1f658",
       "size": 6455026,
       "updatePolicy": "replace"
     },
     {
-      "path": "tacz/SuffuseGunSmokePack1.0.4-hotfix2_converted\u002B1.21.1.zip",
+      "path": "tacz/SuffuseGunSmokePack1.0.4-hotfix2_converted+1.21.1.zip",
       "sha256": "b5e45812eb49392817632d1bea24ccff9ab143e4a38c4f67cba72824df9f396a",
       "size": 26221963,
       "updatePolicy": "replace"
@@ -30898,6 +30886,18 @@
       "path": "tacz/tacz_default_gun/README.txt",
       "sha256": "b85b11716835bacb38078d08f6ed42248f17a57aa43e59921e09b212404a1794",
       "size": 386,
+      "updatePolicy": "replace"
+    },
+    {
+      "path": "mods/xaerominimap-neoforge-1.21.1-26.6.0.jar",
+      "sha256": "d3398221b2262abfe2d394b588122e5b3fd2e4d8c4bf66a5fd357352fcf51b2e",
+      "size": 2186351,
+      "updatePolicy": "replace"
+    },
+    {
+      "path": "mods/xaeroworldmap-neoforge-1.21.1-1.47.0.jar",
+      "sha256": "6a42b6f01bd96b496e5fcc07d4541bad1a699d9ec8ad58ad40d5dcfe23a7d4c7",
+      "size": 1427078,
       "updatePolicy": "replace"
     }
   ]
