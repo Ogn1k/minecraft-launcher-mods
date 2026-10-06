@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "generatedAtUtc": "2026-10-06T06:35:11.652612+00:00",
+  "generatedAtUtc": "2026-10-06T07:07:43.239782+00:00",
   "sources": {
     "googleDrive": "https://drive.google.com/drive/folders/1hvW_IJGL3BT6KQw2L0iwyb1lQNrWPrlM?usp=sharing",
     "githubRepository": "https://github.com/Ogn1k/minecraft-launcher-mods",
@@ -24,8 +24,8 @@
     "version": "1.1.0",
     "rootPath": "launcher/",
     "entryPoint": "MinecraftManager.App.exe",
-    "fileCount": 256,
-    "totalSize": 194086922,
+    "fileCount": 262,
+    "totalSize": 229363810,
     "files": [
       {
         "path": "Avalonia.Base.dll",
@@ -334,8 +334,8 @@
       },
       {
         "path": "MinecraftManager.App.dll",
-        "sha256": "26a8ce5311e2a71e44b0e7aa4d3df4252b7c47c3e1394d7ef6bc2badfac0d385",
-        "size": 5265408
+        "sha256": "00da7f7c53f0ea7150b442a1f0a31b1b742e377ba4a004dd1c327a664b9c8f29",
+        "size": 5264896
       },
       {
         "path": "MinecraftManager.App.exe",
@@ -354,13 +354,13 @@
       },
       {
         "path": "MinecraftManager.Infrastructure.dll",
-        "sha256": "aa36f88e4e6c66f80188c1c03ffcfc003cd96987b3ae24c0d81bb729f01b6d62",
-        "size": 281600
+        "sha256": "3d865e96ec1cb4accc8e29ce520408ce8d9ff5bd96a18233249045fc068d330c",
+        "size": 282112
       },
       {
         "path": "MinecraftManager.SelfUpdate.dll",
-        "sha256": "b22c650a398869d3ec4cb0ebeea2746cce0878126cf5c876bb4bd852c5170e9a",
-        "size": 114688
+        "sha256": "0a7e4cd591dfd1d95628784a620deba877c2b427bf021ce80efff1985760fcbc",
+        "size": 115200
       },
       {
         "path": "SharpCompress.dll",
@@ -1303,13 +1303,43 @@
         "size": 101128
       },
       {
+        "path": "runtime/win-x64/native/av_libglesv2.dll",
+        "sha256": "53191a77fe783cd757ca7767077c2a64a662e7043777a5b4ab74980d4a0b73e3",
+        "size": 5394096
+      },
+      {
+        "path": "runtime/win-x64/native/libHarfBuzzSharp.dll",
+        "sha256": "145ade963eba427027d5e1381db5d51a0ef9e98e9fef9efbfa6074ca20da246f",
+        "size": 1816088
+      },
+      {
+        "path": "runtime/win-x64/native/libSkiaSharp.dll",
+        "sha256": "7dec3ba900ab353491e6446f0083739924c6f8dd668832e2f09d38ebffdbbe1c",
+        "size": 11628896
+      },
+      {
+        "path": "runtime/win-x86/native/av_libglesv2.dll",
+        "sha256": "1e4df6ab43cc25cdaa5405048cb1088b5ca26660adfdddaeaf88c8954464244a",
+        "size": 4794032
+      },
+      {
+        "path": "runtime/win-x86/native/libHarfBuzzSharp.dll",
+        "sha256": "99a97ab4b2b4b60f37930584d79849bd3ef2d1252c51ac47df9805deb08912af",
+        "size": 1518624
+      },
+      {
+        "path": "runtime/win-x86/native/libSkiaSharp.dll",
+        "sha256": "2e49b47ff56a0f6ccf61932d33e01e9046c319da35bbb16f9ec9572a9dcf675f",
+        "size": 10124128
+      },
+      {
         "path": "updater/MinecraftManager.Updater.exe",
-        "sha256": "ae7523ddec9e56c5254efd4a3b3a4000c6e6b725250884b67e3ab2690cce4139",
-        "size": 73818368
+        "sha256": "77f124506de7a5673376de407e118a897939d95fbd776ba4f9e585d16ead9ba3",
+        "size": 73818880
       }
     ],
     "runtimeIdentifier": "win-x64",
     "manifestPath": "launcher/manifest.json",
-    "manifestSha256": "f3487915789c3b0b77df528960f01a890c368cf8170c292cddd99b2764fb5dcc"
+    "manifestSha256": "c41adc5a610c4683459d45ebc371876e573c60bc8f2df22fed60a380ff9eace4"
   }
 }
