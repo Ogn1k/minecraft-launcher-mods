@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "packId": "create-train-neo",
-  "packVersion": "8.3.3",
+  "packVersion": "8.3.4",
   "minimumClientVersion": "1.0.0",
   "minecraftVersion": "1.21.1",
   "modLoader": {
@@ -9049,12 +9049,6 @@
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/c2me-neoforge-mc1.21.1-0.4.0-alpha.0.115.jar",
-      "sha256": "15c67f316dd34785f0317d45272a4b47ed3ff27af6a853029694bba2377b2b43",
-      "size": 3656574,
-      "updatePolicy": "replace"
-    },
-    {
       "path": "mods/CarryOnAeroCompat-1.21.1-1.1.1.jar",
       "sha256": "7cb883e81261b309815e5256d1548a0fc0ec45df9966c118fb794ddaab7c9df0",
       "size": 71561,
@@ -9553,12 +9547,6 @@
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/DistantHorizons-3.2.0-b-1.21.1.jar",
-      "sha256": "d6a7a963f794501678113e2545d8b25c90e123ef6b9256bb5716907d059e1ef5",
-      "size": 30207268,
-      "updatePolicy": "replace"
-    },
-    {
       "path": "mods/dnd_aero_compat-1.0.0.jar",
       "sha256": "316407a113b7c7f8d7f41633707a5a77902e6da5598072c347c2aca0cb237406",
       "size": 18718,
@@ -9847,12 +9835,6 @@
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/jei-1.21.1-neoforge-19.27.0.346.jar",
-      "sha256": "57c233fc6af9d1b0a50144943c73ad827b53097dacdc9ac6d8700ad77676fc68",
-      "size": 1538597,
-      "updatePolicy": "replace"
-    },
-    {
       "path": "mods/jeremyseqsdamageindicators-2.2.1-1.21.1-neo.jar",
       "sha256": "ad29e5743f01cfda8b5dc1eaf8ce56c496b90fd701703118988384d369519bdc",
       "size": 53213,
@@ -10120,18 +10102,6 @@
       "path": "mods/Patchouli-1.21.1-93-NEOFORGE.jar",
       "sha256": "959af52ed6640c316c3a8469203420be4aeea11ad6603890ba83bf48f5d9f993",
       "size": 646777,
-      "updatePolicy": "replace"
-    },
-    {
-      "path": "mods/petrolpark-1.21.1-1.4.36.jar",
-      "sha256": "c28c46ca83879d000cbbb770b2554b888b4a761ae773b7bb61da2caa3294c4f1",
-      "size": 6518129,
-      "updatePolicy": "replace"
-    },
-    {
-      "path": "mods/petrolsparts-1.21.1-1.2.10.jar",
-      "sha256": "a10d3bae391aca62104af067ced9d321a053b8c14b38904caf7a78b61aa5ddb3",
-      "size": 509152,
       "updatePolicy": "replace"
     },
     {
@@ -30898,6 +30868,78 @@
       "path": "mods/xaeroworldmap-neoforge-1.21.1-1.47.0.jar",
       "sha256": "6a42b6f01bd96b496e5fcc07d4541bad1a699d9ec8ad58ad40d5dcfe23a7d4c7",
       "size": 1427078,
+      "updatePolicy": "replace"
+    },
+    {
+      "path": "mods/c2me-neoforge-mc1.21.1-0.4.0-alpha.0.122.jar",
+      "sha256": "672bd9a7dc3fae20817f3563e140d82be90845ef50ce26f57698082d4b2918c0",
+      "size": 3717245,
+      "updatePolicy": "replace"
+    },
+    {
+      "path": "mods/CustomSkinLoader-Common.jar",
+      "sha256": "a462b8df985a6a64c12ffb85a46fd5a9a7edbde6464e0fe29512ebd67c9f1f26",
+      "size": 122701,
+      "updatePolicy": "replace"
+    },
+    {
+      "path": "mods/desktop.ini",
+      "sha256": "a8d536d6a38158f84c32023193699389aa1dc25f590f7151c40aa4c8b48e8ece",
+      "size": 82,
+      "updatePolicy": "replace"
+    },
+    {
+      "path": "mods/DistantHorizons-3.3.3-1.21.1.jar",
+      "sha256": "864e70def5b0d54d619b940b66bb2784e91d3f3fc253064fdc1b3fc5786cbfab",
+      "size": 28289212,
+      "updatePolicy": "replace"
+    },
+    {
+      "path": "mods/gravestone-neoforge-1.21.1-1.0.38.jar",
+      "sha256": "9aeec340571f55147bab02bdea252e25a2e6d7b27b282d12817c34090a35f945",
+      "size": 321850,
+      "updatePolicy": "replace"
+    },
+    {
+      "path": "mods/jei-1.21.1-neoforge-19.53.0.426.jar",
+      "sha256": "d76b62fd38acc119de5d64c0f5b13e2965fcd0f85079ca4620b74a9a342c017d",
+      "size": 1847607,
+      "updatePolicy": "replace"
+    },
+    {
+      "path": "mods/keybindsearch-1.0.0.jar",
+      "sha256": "140659a2216eaa5bd417eb1b1570040fcb87649d151e2b9790b641b2c345f6e9",
+      "size": 18383,
+      "updatePolicy": "replace"
+    },
+    {
+      "path": "mods/petrolpark-1.21.1-1.5.10.jar",
+      "sha256": "ff6dd12b6a2829a69e7f66b271e66c2b58ea148b27705c66eb96e2f9a66e432b",
+      "size": 7036589,
+      "updatePolicy": "replace"
+    },
+    {
+      "path": "mods/petrolsparts-1.21.1-1.3.7.jar",
+      "sha256": "5f715707dad7188aeef490f9b8e6ab52e7c9b5312e07e125073ab898b48e9b18",
+      "size": 1007912,
+      "updatePolicy": "replace"
+    },
+    {
+      "path": "mods/sophisticatedbackpacks-1.21.1-3.26.9.2195.jar",
+      "sha256": "de4a51eb3757ee273b56a41620d6598cd3af8578a5a02c4b5a784e42ab4bee2b",
+      "size": 1242171,
+      "updatePolicy": "replace"
+    },
+    {
+      "path": "mods/sophisticatedcore-1.21.1-1.5.7.2381.jar",
+      "sha256": "33ff373cd62e2bef84ca5dd18ffea1c7508842a3156d021f1a0101063f69fb39",
+      "size": 1814171,
+      "updatePolicy": "replace"
+    },
+    {
+      "path": "mods/sophisticatedstorage-1.21.1-1.5.91.2127.jar",
+      "sha256": "a2c3521edd88196f2948ea9a3db08187907baaa4cdcb27c1b004069782c6bf8f",
+      "size": 1869204,
       "updatePolicy": "replace"
     }
   ]
