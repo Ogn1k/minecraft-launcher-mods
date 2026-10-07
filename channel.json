@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "generatedAtUtc": "2026-10-07T12:34:24.470348+00:00",
+  "generatedAtUtc": "2026-10-07T13:12:46.055975+00:00",
   "sources": {
     "googleDrive": "https://drive.google.com/drive/folders/1hvW_IJGL3BT6KQw2L0iwyb1lQNrWPrlM?usp=sharing",
     "githubRepository": "https://github.com/Ogn1k/minecraft-launcher-mods",
@@ -9,16 +9,16 @@
   },
   "game": {
     "manifestPath": "game/manifest.json",
-    "manifestSha256": "4c075ed17f5e4d90d662fedacc932020f9853e49a0ca0f82a97d90563e4a8ec2",
+    "manifestSha256": "44ab2b207d9d3f6dc6c04bd8e9e02c5a55a4615059c531a74f50ecca2055d828",
     "packId": "create-train-neo",
-    "packVersion": "8.3.4",
+    "packVersion": "8.3.5",
     "minecraftVersion": "1.21.1",
     "modLoader": {
       "type": "NeoForge",
       "version": "21.1.250"
     },
     "fileCount": 5154,
-    "totalSize": 1246703384
+    "totalSize": 1246706502
   },
   "launcher": {
     "version": "1.1.0",
