@@ -30941,6 +30941,12 @@
       "sha256": "a3f330d4757640f8715d991a43eedb826e4d0e51558d859c843ae6693bd35f1e",
       "size": 33123131,
       "updatePolicy": "replace"
+    },
+    {
+      "path": "mods/create-collision-fix-1.0.0.jar",
+      "sha256": "0db69ea01687f93c5f7f2268ce3306f8bef2c813b18da3faa0fd503ce9765783",
+      "size": 3191,
+      "updatePolicy": "replace"
     }
   ]
 }
