@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "packId": "create-train-neo",
-  "packVersion": "8.3.5",
+  "packVersion": "8.3.6",
   "minimumClientVersion": "1.0.0",
   "minecraftVersion": "1.21.1",
   "modLoader": {
@@ -9979,18 +9979,6 @@
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/moonlight-neoforge-1.21.1-3.1.1.jar",
-      "sha256": "095a0b08d34da009b27f207fda8d4322d201e6353231a1ca2624c2350962a3a8",
-      "size": 2028566,
-      "updatePolicy": "replace"
-    },
-    {
-      "path": "mods/moonlight-neoforge-1.21.1-3.1.2.jar",
-      "sha256": "b7bde1aba44206c93dc5bfd8ce951b6e67b0a4bced7ecf2e74b9a68f74a08e31",
-      "size": 2055371,
-      "updatePolicy": "replace"
-    },
-    {
       "path": "mods/moredragonsrem-1.0.3.jar",
       "sha256": "6b09a6ceba4ba783d872dadb83bc8691a891d304e00644eefec85df2ec13fb37",
       "size": 322985,
@@ -10264,12 +10252,6 @@
       "path": "mods/superbwarfare-0.8.9-final-mc1.21.1-9b5284f4.jar",
       "sha256": "1a648d19104ef8c485c539edaf4795553c6ee8d5a624fb59aca5d86f4b0297c9",
       "size": 31688244,
-      "updatePolicy": "replace"
-    },
-    {
-      "path": "mods/supplementaries-neoforge-1.21.1-3.8.3.jar",
-      "sha256": "b248ee5d0dc488a5494abe6db7444f6962fa6ee318df0df546b5d473bdfae70d",
-      "size": 13452384,
       "updatePolicy": "replace"
     },
     {
@@ -30946,6 +30928,18 @@
       "path": "mods/create-collision-fix-1.0.0.jar",
       "sha256": "0db69ea01687f93c5f7f2268ce3306f8bef2c813b18da3faa0fd503ce9765783",
       "size": 3191,
+      "updatePolicy": "replace"
+    },
+    {
+      "path": "mods/moonlight-1.21.1-3.7.2-neoforge.jar",
+      "sha256": "4a9f15108607cc70273f8a0b6eb24e1e99af8eef44bc3ae8681767ca7ce21b0f",
+      "size": 2299162,
+      "updatePolicy": "replace"
+    },
+    {
+      "path": "mods/supplementaries-1.21.1-4.0.2-neoforge.jar",
+      "sha256": "2c2e0c98e0cc21874d8b2130bc773a2a5a6cadd854b9c8163d0e1f32e2ddffb0",
+      "size": 13840377,
       "updatePolicy": "replace"
     }
   ]
