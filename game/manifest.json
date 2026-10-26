@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "packId": "create-train-neo",
-  "packVersion": "8.3.6",
+  "packVersion": "8.3.7",
   "minimumClientVersion": "1.0.0",
   "minecraftVersion": "1.21.1",
   "modLoader": {
@@ -30940,6 +30940,12 @@
       "path": "mods/supplementaries-1.21.1-4.0.2-neoforge.jar",
       "sha256": "2c2e0c98e0cc21874d8b2130bc773a2a5a6cadd854b9c8163d0e1f32e2ddffb0",
       "size": 13840377,
+      "updatePolicy": "replace"
+    },
+    {
+      "path": "mods/omni-speed-controller-fix-1.0.0.jar",
+      "sha256": "1ead54d1caef940e77de5e67431300adf5b7308f5dbb23750ed6fb52eb3b0c68",
+      "size": 5292,
       "updatePolicy": "replace"
     }
   ]
