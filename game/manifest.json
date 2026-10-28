@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "packId": "create-train-neo",
-  "packVersion": "8.3.7",
+  "packVersion": "8.3.8",
   "minimumClientVersion": "1.0.0",
   "minecraftVersion": "1.21.1",
   "modLoader": {
@@ -10874,8 +10874,8 @@
     },
     {
       "path": "tacz/Cyber Armorer-1.1.4.2.1_for114+1.21.1.zip",
-      "sha256": "a8b4053d9b578176a45a33af1470db586efbdac1ae3de1e5361903fa768e5032",
-      "size": 9377478,
+      "sha256": "8b95c88200c1743976a936c6f246c0f9ab5ef71f8d5f08867208decc9ddf4535",
+      "size": 9456341,
       "updatePolicy": "replace"
     },
     {
@@ -30946,6 +30946,30 @@
       "path": "mods/omni-speed-controller-fix-1.0.0.jar",
       "sha256": "1ead54d1caef940e77de5e67431300adf5b7308f5dbb23750ed6fb52eb3b0c68",
       "size": 5292,
+      "updatePolicy": "replace"
+    },
+    {
+      "path": "mods/alcohol_mod_okaypy-1.0.6-neoforge-1.21.1.jar",
+      "sha256": "b8017504d560e619218d11db42fbf81fd73c140b153344d28539f09c4fffb92a",
+      "size": 1252078,
+      "updatePolicy": "replace"
+    },
+    {
+      "path": "mods/drinkbeer-refill-1.21.1-1.1.0.jar",
+      "sha256": "938ff91a0f6c0658bae16351fb2b01f2d301430951c81a41119d61ff85c47c39",
+      "size": 1498537,
+      "updatePolicy": "replace"
+    },
+    {
+      "path": "mods/letsdo-brewery-neoforge-2.1.13.jar",
+      "sha256": "86f19a428fd37fc4c6831dc940f401b178238c51f86a95da7809cc928c24df8b",
+      "size": 2230362,
+      "updatePolicy": "replace"
+    },
+    {
+      "path": "mods/letsdo-vinery-neoforge-1.5.6.jar",
+      "sha256": "7e5e4e901a599a499bd510490ec12e72e8547e53b61790778fa7848852c451ec",
+      "size": 2570708,
       "updatePolicy": "replace"
     }
   ]
