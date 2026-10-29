@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "packId": "create-train-neo",
-  "packVersion": "8.3.11",
+  "packVersion": "8.3.12",
   "minimumClientVersion": "1.0.0",
   "minecraftVersion": "1.21.1",
   "modLoader": {
@@ -9517,12 +9517,6 @@
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/curios-neoforge-9.0.15+1.21.1.jar",
-      "sha256": "8c5bcb5783b94f7be2f6f2459b3da792c521b567583f842ed1a905e1a6824bd0",
-      "size": 370972,
-      "updatePolicy": "replace"
-    },
-    {
       "path": "mods/curios-neoforge-9.5.1+1.21.1.jar",
       "sha256": "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde",
       "size": 410690,
@@ -10210,12 +10204,6 @@
       "path": "mods/sodium-extra-neoforge-0.9.3+mc1.21.1.jar",
       "sha256": "fa553bce38bad6fdd478841a270a79a31dc05f87d7892b1cf839850602ac9186",
       "size": 465013,
-      "updatePolicy": "replace"
-    },
-    {
-      "path": "mods/sodium-neoforge-0.8.12+mc1.21.1.jar",
-      "sha256": "2f9e69ec9521e657100ef83b3bdf3f18dba6078d57f9853722d7643a577b2266",
-      "size": 1291418,
       "updatePolicy": "replace"
     },
     {
@@ -30982,6 +30970,12 @@
       "path": "mods/sable-neoforge-1.21.1-2.0.6.jar",
       "sha256": "9c199157843bf953a47dff625fc5bb41c01a90538d35ad18e6996bbcb8a617c2",
       "size": 12986135,
+      "updatePolicy": "replace"
+    },
+    {
+      "path": "mods/sodium-neoforge-0.8.13+mc1.21.1.jar",
+      "sha256": "575d187b15328d7bddd8a9b1bee64333c22c14735f5780ec49eac0cd5503c08d",
+      "size": 1292934,
       "updatePolicy": "replace"
     }
   ]
