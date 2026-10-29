@@ -1,12 +1,12 @@
 {
   "schemaVersion": 3,
   "packId": "create-train-neo",
-  "packVersion": "8.3.10",
+  "packVersion": "8.3.11",
   "minimumClientVersion": "1.0.0",
   "minecraftVersion": "1.21.1",
   "modLoader": {
     "type": "NeoForge",
-    "version": "21.1.250"
+    "version": "21.1.265"
   },
   "managedPaths": [
     "config/",
@@ -10129,12 +10129,6 @@
       "updatePolicy": "replace"
     },
     {
-      "path": "mods/Quark-4.1-482.jar",
-      "sha256": "0f69ce0d31caa4f31e1fa4959541120121e27c652cd2d954839af6b5162f0c70",
-      "size": 15576704,
-      "updatePolicy": "replace"
-    },
-    {
       "path": "mods/railways-0.2.1+neoforge-mc1.21.1.jar",
       "sha256": "b7636c8b1b0352ed1a130dfe67f8bb574e2fc08803ed1cda4d3ea00505193914",
       "size": 12118736,
@@ -10168,12 +10162,6 @@
       "path": "mods/ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar",
       "sha256": "cc509060833736fb650aa4c36b1ce33a7eeeb9ca6e9f8e80a7c951c9e7487b24",
       "size": 76369,
-      "updatePolicy": "replace"
-    },
-    {
-      "path": "mods/sable-neoforge-1.21.1-2.0.3.jar",
-      "sha256": "da6c3b66238586603d1dcaa2afb012d36815fbce0a2d5938fbb2936701d42279",
-      "size": 12889000,
       "updatePolicy": "replace"
     },
     {
@@ -30982,6 +30970,18 @@
       "path": "mods/offgrid-neoforge-1.0.3+1.21.1.jar",
       "sha256": "fa2046830151b85db25baeec08093c2986f841dda2b70f208b0f62ca66f4994f",
       "size": 776253,
+      "updatePolicy": "replace"
+    },
+    {
+      "path": "mods/Quark-4.1-488.jar",
+      "sha256": "f693092c4bc54e8ef427ff98f93926fd85875e45d2697b9db7c45f551ae24feb",
+      "size": 15614268,
+      "updatePolicy": "replace"
+    },
+    {
+      "path": "mods/sable-neoforge-1.21.1-2.0.6.jar",
+      "sha256": "9c199157843bf953a47dff625fc5bb41c01a90538d35ad18e6996bbcb8a617c2",
+      "size": 12986135,
       "updatePolicy": "replace"
     }
   ]
